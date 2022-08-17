@@ -7,8 +7,8 @@ namespace CivilFX.Generic2
 {
     public enum PhaseType
     {
-        Proposed,
-        Existing
+        Pedestrian_Underpass,
+        Pedestrian_Overpass
     }
 
     public enum PhaseMode

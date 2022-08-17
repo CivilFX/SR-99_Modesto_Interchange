@@ -7,8 +7,8 @@ namespace CivilFX.UI2
 {
     public class PhasingPanelController : MonoBehaviour
     {
-        public CustomButton proposed;
-        public CustomButton existing;
+        public CustomButton pedestrianUnderpass;
+        public CustomButton pedestrianOverpass;
         private CustomButton lastSelected;
 
         public TrafficPanelController trafficPanel;
@@ -16,8 +16,8 @@ namespace CivilFX.UI2
 
         private void Awake()
         {
-            proposed.RegisterMainButtonCallback(() => {
-                if (proposed == lastSelected) {
+            pedestrianUnderpass.RegisterMainButtonCallback(() => {
+                if (pedestrianUnderpass == lastSelected) {
                     return;
                 }
                 if (lastSelected != null) {
@@ -25,15 +25,15 @@ namespace CivilFX.UI2
                 }
 
                 //invoke phase
-                PhasedManager.Invoke(PhaseType.Proposed);
-                lastSelected = proposed;
+                PhasedManager.Invoke(PhaseType.Pedestrian_Underpass);
+                lastSelected = pedestrianUnderpass;
 
                 trafficPanel.ToggleInflowPoints();
                 trafficPanel.ToggleDivergePoints();
             });
 
-            existing.RegisterMainButtonCallback(() => {
-                if (existing == lastSelected) {
+            pedestrianOverpass.RegisterMainButtonCallback(() => {
+                if (pedestrianOverpass == lastSelected) {
                     return;
                 }
                 if (lastSelected != null) {
@@ -41,15 +41,15 @@ namespace CivilFX.UI2
                 }
 
                 //invoke phase
-                PhasedManager.Invoke(PhaseType.Existing);
-                lastSelected = existing;
+                PhasedManager.Invoke(PhaseType.Pedestrian_Overpass);
+                lastSelected = pedestrianOverpass;
 
                 trafficPanel.ToggleInflowPoints();
                 trafficPanel.ToggleDivergePoints();
             });
 
 
-            proposed.InvokeMainButton();
+            pedestrianUnderpass.InvokeMainButton();
         }
 
     }

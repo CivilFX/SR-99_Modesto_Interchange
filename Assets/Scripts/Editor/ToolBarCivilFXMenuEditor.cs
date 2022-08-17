@@ -5,17 +5,17 @@ namespace CivilFX.Generic2
 {
     public class ToolBarCivilFXMenuEditor : Editor
     {
-        [MenuItem("CivilFX/Phase/Proposed", false, 100)]
+        [MenuItem("CivilFX/Phase/Pedestrian Underpass", false, 100)]
         static void ToggleProposedRSB()
         {
-            PhasedManager.Invoke(PhaseType.Proposed);
+            PhasedManager.Invoke(PhaseType.Pedestrian_Underpass);
         }
 
 
-        [MenuItem("CivilFX/Phase/Existing", false, 200)]
+        [MenuItem("CivilFX/Phase/Pedestrian Overpass", false, 200)]
         static void ToggleExisting()
         {
-            PhasedManager.Invoke(PhaseType.Existing);
+            PhasedManager.Invoke(PhaseType.Pedestrian_Overpass);
         }
 
     }
