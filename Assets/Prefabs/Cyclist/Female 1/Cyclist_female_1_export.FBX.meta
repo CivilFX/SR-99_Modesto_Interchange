@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: af7759ade1cfb934d809919c14cc299b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Female_hair
+    100004: helmet
+    100006: LOD_02_Rbike_body
+    100008: LOD_02_Rbike_chain_set
+    100010: LOD_02_Rbike_handlebar
+    100012: LOD_02_Rbike_handlebar_brake_L
+    100014: LOD_02_Rbike_handlebar_brake_R
+    100016: LOD_02_Rbike_pedal_L
+    100018: LOD_02_Rbike_pedal_R
+    100020: LOD_02_Rbike_seat
+    100022: LOD_02_Rbike_wheel_front
+    100024: LOD_02_Rbike_wheel_rear
+    100026: Rbike_handles
+    100028: Rbike_pedal_L
+    100030: Rbike_pedal_R
+    100032: Rbike_pedalroot
+    100034: Rbike_root
+    100036: Rbike_wheelfront
+    100038: Rbike_wheelrear
+    100040: Woman0019-M4-CS_Head
+    100042: Woman0019-M4-CS_HeadNub
+    100044: Woman0019-M4-CS_Hips
+    100046: Woman0019-M4-CS_LeftArm
+    100048: Woman0019-M4-CS_LeftFoot
+    100050: Woman0019-M4-CS_LeftForeArm
+    100052: Woman0019-M4-CS_LeftHand
+    100054: Woman0019-M4-CS_LeftHandIndex1
+    100056: Woman0019-M4-CS_LeftHandIndex2
+    100058: Woman0019-M4-CS_LeftHandIndex3
+    100060: Woman0019-M4-CS_LeftHandIndexNub
+    100062: Woman0019-M4-CS_LeftHandMiddle1
+    100064: Woman0019-M4-CS_LeftHandMiddle2
+    100066: Woman0019-M4-CS_LeftHandMiddle3
+    100068: Woman0019-M4-CS_LeftHandMiddleNub
+    100070: Woman0019-M4-CS_LeftHandPinky1
+    100072: Woman0019-M4-CS_LeftHandPinky2
+    100074: Woman0019-M4-CS_LeftHandPinky3
+    100076: Woman0019-M4-CS_LeftHandPinkyNub
+    100078: Woman0019-M4-CS_LeftHandRing1
+    100080: Woman0019-M4-CS_LeftHandRing2
+    100082: Woman0019-M4-CS_LeftHandRing3
+    100084: Woman0019-M4-CS_LeftHandRingNub
+    100086: Woman0019-M4-CS_LeftHandThumb1
+    100088: Woman0019-M4-CS_LeftHandThumb2
+    100090: Woman0019-M4-CS_LeftHandThumb3
+    100092: Woman0019-M4-CS_LeftHandThumbNub
+    100094: Woman0019-M4-CS_LeftLeg
+    100096: Woman0019-M4-CS_LeftShoulder
+    100098: Woman0019-M4-CS_LeftToeBase
+    100100: Woman0019-M4-CS_LeftToeBaseNub
+    100102: Woman0019-M4-CS_LeftUpLeg
+    100104: Woman0019-M4-CS_Mesh
+    100106: Woman0019-M4-CS_Neck
+    100108: Woman0019-M4-CS_RightArm
+    100110: Woman0019-M4-CS_RightFoot
+    100112: Woman0019-M4-CS_RightForeArm
+    100114: Woman0019-M4-CS_RightHand
+    100116: Woman0019-M4-CS_RightHandIndex1
+    100118: Woman0019-M4-CS_RightHandIndex2
+    100120: Woman0019-M4-CS_RightHandIndex3
+    100122: Woman0019-M4-CS_RightHandIndexNub
+    100124: Woman0019-M4-CS_RightHandMiddle1
+    100126: Woman0019-M4-CS_RightHandMiddle2
+    100128: Woman0019-M4-CS_RightHandMiddle3
+    100130: Woman0019-M4-CS_RightHandMiddleNub
+    100132: Woman0019-M4-CS_RightHandPinky1
+    100134: Woman0019-M4-CS_RightHandPinky2
+    100136: Woman0019-M4-CS_RightHandPinky3
+    100138: Woman0019-M4-CS_RightHandPinkyNub
+    100140: Woman0019-M4-CS_RightHandRing1
+    100142: Woman0019-M4-CS_RightHandRing2
+    100144: Woman0019-M4-CS_RightHandRing3
+    100146: Woman0019-M4-CS_RightHandRingNub
+    100148: Woman0019-M4-CS_RightHandThumb1
+    100150: Woman0019-M4-CS_RightHandThumb2
+    100152: Woman0019-M4-CS_RightHandThumb3
+    100154: Woman0019-M4-CS_RightHandThumbNub
+    100156: Woman0019-M4-CS_RightLeg
+    100158: Woman0019-M4-CS_RightShoulder
+    100160: Woman0019-M4-CS_RightToeBase
+    100162: Woman0019-M4-CS_RightToeBaseNub
+    100164: Woman0019-M4-CS_RightUpLeg
+    100166: Woman0019-M4-CS_Spine
+    100168: Woman0019-M4-CS_Spine1
+    100170: Woman0019-M4-CS_Spine2
+    100172: Woman0019-M4-CS_Spine3
+    100174: Woman0019-M4-CS_Spine4
+    400000: //RootNode
+    400002: Female_hair
+    400004: helmet
+    400006: LOD_02_Rbike_body
+    400008: LOD_02_Rbike_chain_set
+    400010: LOD_02_Rbike_handlebar
+    400012: LOD_02_Rbike_handlebar_brake_L
+    400014: LOD_02_Rbike_handlebar_brake_R
+    400016: LOD_02_Rbike_pedal_L
+    400018: LOD_02_Rbike_pedal_R
+    400020: LOD_02_Rbike_seat
+    400022: LOD_02_Rbike_wheel_front
+    400024: LOD_02_Rbike_wheel_rear
+    400026: Rbike_handles
+    400028: Rbike_pedal_L
+    400030: Rbike_pedal_R
+    400032: Rbike_pedalroot
+    400034: Rbike_root
+    400036: Rbike_wheelfront
+    400038: Rbike_wheelrear
+    400040: Woman0019-M4-CS_Head
+    400042: Woman0019-M4-CS_HeadNub
+    400044: Woman0019-M4-CS_Hips
+    400046: Woman0019-M4-CS_LeftArm
+    400048: Woman0019-M4-CS_LeftFoot
+    400050: Woman0019-M4-CS_LeftForeArm
+    400052: Woman0019-M4-CS_LeftHand
+    400054: Woman0019-M4-CS_LeftHandIndex1
+    400056: Woman0019-M4-CS_LeftHandIndex2
+    400058: Woman0019-M4-CS_LeftHandIndex3
+    400060: Woman0019-M4-CS_LeftHandIndexNub
+    400062: Woman0019-M4-CS_LeftHandMiddle1
+    400064: Woman0019-M4-CS_LeftHandMiddle2
+    400066: Woman0019-M4-CS_LeftHandMiddle3
+    400068: Woman0019-M4-CS_LeftHandMiddleNub
+    400070: Woman0019-M4-CS_LeftHandPinky1
+    400072: Woman0019-M4-CS_LeftHandPinky2
+    400074: Woman0019-M4-CS_LeftHandPinky3
+    400076: Woman0019-M4-CS_LeftHandPinkyNub
+    400078: Woman0019-M4-CS_LeftHandRing1
+    400080: Woman0019-M4-CS_LeftHandRing2
+    400082: Woman0019-M4-CS_LeftHandRing3
+    400084: Woman0019-M4-CS_LeftHandRingNub
+    400086: Woman0019-M4-CS_LeftHandThumb1
+    400088: Woman0019-M4-CS_LeftHandThumb2
+    400090: Woman0019-M4-CS_LeftHandThumb3
+    400092: Woman0019-M4-CS_LeftHandThumbNub
+    400094: Woman0019-M4-CS_LeftLeg
+    400096: Woman0019-M4-CS_LeftShoulder
+    400098: Woman0019-M4-CS_LeftToeBase
+    400100: Woman0019-M4-CS_LeftToeBaseNub
+    400102: Woman0019-M4-CS_LeftUpLeg
+    400104: Woman0019-M4-CS_Mesh
+    400106: Woman0019-M4-CS_Neck
+    400108: Woman0019-M4-CS_RightArm
+    400110: Woman0019-M4-CS_RightFoot
+    400112: Woman0019-M4-CS_RightForeArm
+    400114: Woman0019-M4-CS_RightHand
+    400116: Woman0019-M4-CS_RightHandIndex1
+    400118: Woman0019-M4-CS_RightHandIndex2
+    400120: Woman0019-M4-CS_RightHandIndex3
+    400122: Woman0019-M4-CS_RightHandIndexNub
+    400124: Woman0019-M4-CS_RightHandMiddle1
+    400126: Woman0019-M4-CS_RightHandMiddle2
+    400128: Woman0019-M4-CS_RightHandMiddle3
+    400130: Woman0019-M4-CS_RightHandMiddleNub
+    400132: Woman0019-M4-CS_RightHandPinky1
+    400134: Woman0019-M4-CS_RightHandPinky2
+    400136: Woman0019-M4-CS_RightHandPinky3
+    400138: Woman0019-M4-CS_RightHandPinkyNub
+    400140: Woman0019-M4-CS_RightHandRing1
+    400142: Woman0019-M4-CS_RightHandRing2
+    400144: Woman0019-M4-CS_RightHandRing3
+    400146: Woman0019-M4-CS_RightHandRingNub
+    400148: Woman0019-M4-CS_RightHandThumb1
+    400150: Woman0019-M4-CS_RightHandThumb2
+    400152: Woman0019-M4-CS_RightHandThumb3
+    400154: Woman0019-M4-CS_RightHandThumbNub
+    400156: Woman0019-M4-CS_RightLeg
+    400158: Woman0019-M4-CS_RightShoulder
+    400160: Woman0019-M4-CS_RightToeBase
+    400162: Woman0019-M4-CS_RightToeBaseNub
+    400164: Woman0019-M4-CS_RightUpLeg
+    400166: Woman0019-M4-CS_Spine
+    400168: Woman0019-M4-CS_Spine1
+    400170: Woman0019-M4-CS_Spine2
+    400172: Woman0019-M4-CS_Spine3
+    400174: Woman0019-M4-CS_Spine4
+    2100000: Rbike_wheel
+    2100002: Rbike_body
+    2100004: Rbike_chain
+    2100006: CMan0019-M4-CS_Cloths&Stuff
+    2100008: 'Material #0'
+    2100010: 'Material #2'
+    2100012: 'Material #1'
+    2100014: CMan0019-M4-CS_Hair
+    2100016: female_hair
+    2100018: helmet_mat
+    4300000: LOD_02_Rbike_seat
+    4300002: LOD_02_Rbike_pedal_R
+    4300004: LOD_02_Rbike_chain_set
+    4300006: LOD_02_Rbike_body
+    4300008: LOD_02_Rbike_pedal_L
+    4300010: LOD_02_Rbike_handlebar
+    4300012: LOD_02_Rbike_handlebar_brake_R
+    4300014: LOD_02_Rbike_handlebar_brake_L
+    4300016: LOD_02_Rbike_wheel_front
+    4300018: LOD_02_Rbike_wheel_rear
+    4300020: Woman0019-M4-CS_Mesh
+    4300022: Female_hair
+    4300024: helmet
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Female_hair
+    13700002: helmet
+    13700004: LOD_02_Rbike_body
+    13700006: LOD_02_Rbike_chain_set
+    13700008: LOD_02_Rbike_handlebar
+    13700010: LOD_02_Rbike_handlebar_brake_L
+    13700012: LOD_02_Rbike_handlebar_brake_R
+    13700014: LOD_02_Rbike_pedal_L
+    13700016: LOD_02_Rbike_pedal_R
+    13700018: LOD_02_Rbike_seat
+    13700020: LOD_02_Rbike_wheel_front
+    13700022: LOD_02_Rbike_wheel_rear
+    13700024: Woman0019-M4-CS_Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CMan0019-M4-CS_Cloths&Stuff
+    second: {fileID: 2100000, guid: a9c198658ca032344bbcffa0922cb97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CMan0019-M4-CS_Hair
+    second: {fileID: 2100000, guid: 3df29249495985f4393dbc360afcce9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #0'
+    second: {fileID: 2100000, guid: c05c0195353bef84e88e5776e79f13cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1'
+    second: {fileID: 2100000, guid: 8d3ce8bf67c5fa040898cb0d69ca0f48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 3f56d94491674464aa8ee0ae0f27e096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbike_body
+    second: {fileID: 2100000, guid: b09cbd0d3c3b5a342af74404a4f2c5dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbike_chain
+    second: {fileID: 2100000, guid: 0f32078237e462748ba9d8536a7bd267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbike_wheel
+    second: {fileID: 2100000, guid: f63ed701cc38a834587436204c9d4d73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: female_hair
+    second: {fileID: 2100000, guid: ab0a465427d355e4facc98661dfe111b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: helmet_mat
+    second: {fileID: 2100000, guid: 1f6f0cd982c52204eb62cb91dfd1fc92, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CMan0019-M4-Hair-D
+    second: {fileID: 2800000, guid: 28a97398e0f07bc47bba8559949c7635, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rbike_body_diff
+    second: {fileID: 2800000, guid: 0c86918b5d807fa488141008d167dc8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rbike_chain
+    second: {fileID: 2800000, guid: 3c79703a7b2ee3240a55e0666f0ac827, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rbike_wheel_diff
+    second: {fileID: 2800000, guid: da7b964fc3e98e94c8246b369994f054, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SydneyHair1-A
+    second: {fileID: 2800000, guid: 5fb34c8b00db684488339b528c461355, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SydneyHair1-Trans
+    second: {fileID: 2800000, guid: 2b2ffc185dfbe714e89d3e8eb6430071, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cyclist_racing_female_1
+    second: {fileID: 2800000, guid: ddd6326f15681244a9d129bd70f42e88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cyclist_racing_female_head_1
+    second: {fileID: 2800000, guid: 1ac007279369eb9408934685e5b2896a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: helmet3
+    second: {fileID: 2800000, guid: a6c35e383a7794047ac8e003c7fb06ea, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

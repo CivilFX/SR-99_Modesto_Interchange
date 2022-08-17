@@ -1,0 +1,3573 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2117516739936488
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5370146861734081250}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_Spine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5370146861734081250
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2117516739936488}
+  m_LocalRotation: {x: 0.00006928734, y: -0.000040134873, z: -0.04350504, w: 0.99905324}
+  m_LocalPosition: {x: -0.0029703558, y: -0.0000023505397, z: 0.00000005481301}
+  m_LocalScale: {x: 0.99999356, y: 0.9999909, z: 0.99999344}
+  m_Children:
+  - {fileID: 7393384539130424194}
+  m_Father: {fileID: 7729840364925327707}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &19874369479166367
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6292122124763030253}
+  - component: {fileID: 8453110234645920255}
+  m_Layer: 0
+  m_Name: Female_hair
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6292122124763030253
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 19874369479166367}
+  m_LocalRotation: {x: -0.60874873, y: 0.0051232856, z: 0.0039312355, w: 0.7933368}
+  m_LocalPosition: {x: -0.06273285, y: 4.180912, z: 0.01585435}
+  m_LocalScale: {x: 109.96529, y: 111.521515, z: 111.35462}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &8453110234645920255
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 19874369479166367}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: ab0a465427d355e4facc98661dfe111b, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300022, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 6458725054525910934}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 6458725054525910934}
+  m_AABB:
+    m_Center: {x: -0.0034579153, y: -0.0007768244, z: 0.00010608346}
+    m_Extent: {x: 0.0027524533, y: 0.0032747234, z: 0.0023118786}
+  m_DirtyAABB: 0
+--- !u!1 &50370471397249382
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790977509691571832}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandThumbNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1790977509691571832
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 50370471397249382}
+  m_LocalRotation: {x: 0.00000618189, y: -0.000004862084, z: -0.124871455, w: 0.99217296}
+  m_LocalPosition: {x: -0.0007339108, y: -0.000000078177926, z: 0.000000025964997}
+  m_LocalScale: {x: 0.99999976, y: 0.9999994, z: 0.9999959}
+  m_Children: []
+  m_Father: {fileID: 696629083570009070}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &208663917652629500
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2001222431169792464}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2001222431169792464
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 208663917652629500}
+  m_LocalRotation: {x: 0.85551107, y: -0.068600856, z: 0.03297088, w: 0.5121598}
+  m_LocalPosition: {x: -0.0060269507, y: 0.000017525115, z: -0.00000019965681}
+  m_LocalScale: {x: 0.99999076, y: 0.99998647, z: 0.99996495}
+  m_Children:
+  - {fileID: 6968816239367411069}
+  - {fileID: 6557272528949014768}
+  - {fileID: 8032710941700282246}
+  - {fileID: 5448294600736290551}
+  - {fileID: 6755489846214041453}
+  m_Father: {fileID: 5787510144060060702}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &231346165513069345
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2586348474537344190}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandRing2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2586348474537344190
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 231346165513069345}
+  m_LocalRotation: {x: 0.00007472722, y: -0.000017452116, z: -0.5574967, w: 0.83017915}
+  m_LocalPosition: {x: -0.0012143097, y: -0.000000079695866, z: -0.000000014791958}
+  m_LocalScale: {x: 1.0000277, y: 0.99999195, z: 0.9999972}
+  m_Children:
+  - {fileID: 5735855811947790649}
+  m_Father: {fileID: 726988312172163326}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &290205692557952764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3448805972682038052}
+  - component: {fileID: 5218020932436614387}
+  m_Layer: 0
+  m_Name: LOD_02_Rbike_pedal_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3448805972682038052
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 290205692557952764}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0.1549879, y: 0.6210271, z: 0.25125262}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5218020932436614387
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 290205692557952764}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b09cbd0d3c3b5a342af74404a4f2c5dc, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300002, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 2362525868787873110}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 2362525868787873110}
+  m_AABB:
+    m_Center: {x: 0.015674263, y: -0.00034947693, z: 0.007612625}
+    m_Extent: {x: 0.105994195, y: 0.09987282, z: 0.024828492}
+  m_DirtyAABB: 0
+--- !u!1 &316297974243112371
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3173932918092063570}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightFoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3173932918092063570
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 316297974243112371}
+  m_LocalRotation: {x: 0.016244497, y: -0.012211249, z: -0.16804393, w: 0.98557}
+  m_LocalPosition: {x: -0.009366553, y: 0.00000001338906, z: -0.00000007086955}
+  m_LocalScale: {x: 0.99995846, y: 0.9999607, z: 0.9999647}
+  m_Children:
+  - {fileID: 9115481028594834498}
+  m_Father: {fileID: 2282130096422315338}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &332961535321295247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1640296765613446602}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandIndexNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1640296765613446602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332961535321295247}
+  m_LocalRotation: {x: 0.0016944354, y: 0.99999857, z: 0.000008250598, w: 0.0000030766198}
+  m_LocalPosition: {x: -0.00073688914, y: 0.0000025908384, z: -0.000000002592861}
+  m_LocalScale: {x: -1.0000012, y: -1.0000111, z: -1.0000224}
+  m_Children: []
+  m_Father: {fileID: 153133401527543634}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &544497066022024860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4655673999498842737}
+  - component: {fileID: 492417273540473974}
+  m_Layer: 0
+  m_Name: LOD_02_Rbike_seat
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4655673999498842737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544497066022024860}
+  m_LocalRotation: {x: -0.80212766, y: 0, z: -0, w: 0.5971526}
+  m_LocalPosition: {x: 0.00006156132, y: 1.9401544, z: -0.60713685}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &492417273540473974
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544497066022024860}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: f63ed701cc38a834587436204c9d4d73, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 4780106322041978712}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 4780106322041978712}
+  m_AABB:
+    m_Center: {x: 0.00000012712553, y: 0.00657859, z: 0.020337628}
+    m_Extent: {x: 0.0017495517, y: 0.0036417258, z: 0.0026959553}
+  m_DirtyAABB: 0
+--- !u!1 &586971336097845306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1609597227871312063}
+  m_Layer: 0
+  m_Name: Rbike_wheelrear
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1609597227871312063
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 586971336097845306}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.000000003759156, y: 1.2125164, z: 0.83525425}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 422187967997647415}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &611460612520131542
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 696629083570009070}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandThumb3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &696629083570009070
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 611460612520131542}
+  m_LocalRotation: {x: 0.00000267203, y: -0.0000021381359, z: -0.3761588, w: 0.9265552}
+  m_LocalPosition: {x: -0.0008738622, y: -0.0000000829156, z: 0.000000029520809}
+  m_LocalScale: {x: 0.99999666, y: 0.999997, z: 0.999995}
+  m_Children:
+  - {fileID: 1790977509691571832}
+  m_Father: {fileID: 4829608366772339340}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &612934103304796326
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4945589705021643976}
+  - component: {fileID: 4612788904450018047}
+  m_Layer: 0
+  m_Name: helmet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4945589705021643976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612934103304796326}
+  m_LocalRotation: {x: -0.7071068, y: 0.00000012363449, z: 0.00000012363449, w: 0.7071068}
+  m_LocalPosition: {x: -0.014876223, y: 3.566804, z: 1.0862275}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4612788904450018047
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612934103304796326}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 1f6f0cd982c52204eb62cb91dfd1fc92, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300024, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 6458725054525910934}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 6458725054525910934}
+  m_AABB:
+    m_Center: {x: -0.0041445573, y: -0.0007459817, z: 0.00012915535}
+    m_Extent: {x: 0.0024021962, y: 0.0036405062, z: 0.0026299448}
+  m_DirtyAABB: 0
+--- !u!1 &824556763096125753
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8371264766268358796}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandIndexNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8371264766268358796
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 824556763096125753}
+  m_LocalRotation: {x: 0.0000296686, y: 0.000002315896, z: -0.26096714, w: 0.9653477}
+  m_LocalPosition: {x: -0.00073676486, y: 0.000000016617527, z: -8.1135965e-10}
+  m_LocalScale: {x: 1.0000054, y: 0.999988, z: 1.0000051}
+  m_Children: []
+  m_Father: {fileID: 8371132982627892169}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &930219009666332130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 769695288523179989}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftToeBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &769695288523179989
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 930219009666332130}
+  m_LocalRotation: {x: 0.0011927271, y: 0.003320679, z: -0.76939565, w: 0.6387628}
+  m_LocalPosition: {x: -0.002803265, y: 0.0034972134, z: -0.00000013222191}
+  m_LocalScale: {x: 1.0000085, y: 0.99998194, z: 1.0000155}
+  m_Children:
+  - {fileID: 6226100881157644597}
+  m_Father: {fileID: 1772747906400241132}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1093973740537876041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8615722906237259239}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandIndex2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8615722906237259239
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1093973740537876041}
+  m_LocalRotation: {x: 0.000021461372, y: -0.000013337291, z: -0.5098912, w: 0.8602389}
+  m_LocalPosition: {x: -0.0010629229, y: -0.00000016172724, z: -0.000000008390907}
+  m_LocalScale: {x: 1.0000174, y: 1.0000038, z: 0.99999654}
+  m_Children:
+  - {fileID: 153133401527543634}
+  m_Father: {fileID: 6968816239367411069}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1257410954029211548
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5640893308721257764}
+  - component: {fileID: 5947567408241246393}
+  m_Layer: 0
+  m_Name: LOD_02_Rbike_handlebar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5640893308721257764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257410954029211548}
+  m_LocalRotation: {x: -0.800057, y: 0, z: -0, w: 0.599924}
+  m_LocalPosition: {x: 0.000010768653, y: 2.1408446, z: 0.8029635}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5947567408241246393
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257410954029211548}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b09cbd0d3c3b5a342af74404a4f2c5dc, type: 2}
+  - {fileID: 2100000, guid: f63ed701cc38a834587436204c9d4d73, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300010, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 8032735222762184154}
+  - {fileID: 422187967997647415}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 422187967997647415}
+  m_AABB:
+    m_Center: {x: 0.000010758638, y: -1.3160894, z: 1.6152277}
+    m_Extent: {x: 0.47122073, y: 0.6049833, z: 0.8577845}
+  m_DirtyAABB: 0
+--- !u!1 &1526485410357813372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5064447241377462967}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftForeArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5064447241377462967
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1526485410357813372}
+  m_LocalRotation: {x: 0, y: 0, z: 0.39123943, w: 0.9202889}
+  m_LocalPosition: {x: -0.0076505793, y: -0.00000022120054, z: 0.0000006491333}
+  m_LocalScale: {x: 1.0000074, y: 0.99999493, z: 0.9999951}
+  m_Children:
+  - {fileID: 740598564286359173}
+  m_Father: {fileID: 7279951015435056991}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1635840366012761784
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6968816239367411069}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandIndex1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6968816239367411069
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1635840366012761784}
+  m_LocalRotation: {x: 0.00000624775, y: -0.000018807703, z: -0.28110254, w: 0.95967776}
+  m_LocalPosition: {x: -0.0022640121, y: -0.00016452947, z: 0.00071083585}
+  m_LocalScale: {x: 1.0000129, y: 1.000019, z: 1.0000147}
+  m_Children:
+  - {fileID: 8615722906237259239}
+  m_Father: {fileID: 2001222431169792464}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1690216544798376145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2806277423781143703}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandPinky3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2806277423781143703
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1690216544798376145}
+  m_LocalRotation: {x: 0.000017787575, y: 0.000032481992, z: -0.60632557, w: 0.79521656}
+  m_LocalPosition: {x: -0.0005906432, y: 0.00000010836943, z: -0.00000003477235}
+  m_LocalScale: {x: 0.9999805, y: 0.9999596, z: 1.0000024}
+  m_Children:
+  - {fileID: 6628152403668083274}
+  m_Father: {fileID: 8063801707743861791}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1878795001667957607
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 740598564286359173}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &740598564286359173
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1878795001667957607}
+  m_LocalRotation: {x: -0.74267894, y: 0.023931807, z: 0.060524028, w: 0.6664774}
+  m_LocalPosition: {x: -0.006175113, y: 0.000018308796, z: 0.00000039028646}
+  m_LocalScale: {x: 0.9999934, y: 1.0000193, z: 0.99998224}
+  m_Children:
+  - {fileID: 5453547335145452630}
+  - {fileID: 2767778262186067147}
+  - {fileID: 5080920204314152338}
+  - {fileID: 726988312172163326}
+  - {fileID: 7584275393395526133}
+  m_Father: {fileID: 5064447241377462967}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1960855257323666028
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4829608366772339340}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandThumb2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4829608366772339340
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1960855257323666028}
+  m_LocalRotation: {x: 0.0000059823865, y: 0.000008760625, z: -0.10916192, w: 0.994024}
+  m_LocalPosition: {x: -0.0011003881, y: -0.00000015218413, z: 0.000000024811321}
+  m_LocalScale: {x: 0.99999636, y: 1.0000062, z: 1.000005}
+  m_Children:
+  - {fileID: 696629083570009070}
+  m_Father: {fileID: 7584275393395526133}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2030322546613590903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8606740079133758684}
+  - component: {fileID: 1659126720439898690}
+  m_Layer: 0
+  m_Name: LOD_02_Rbike_wheel_front
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8606740079133758684
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030322546613590903}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0.000010753831, y: 0.8353159, z: 1.3045014}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &1659126720439898690
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030322546613590903}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: f63ed701cc38a834587436204c9d4d73, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300016, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 8032735222762184154}
+  - {fileID: 7066134255147175676}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 8032735222762184154}
+  m_AABB:
+    m_Center: {x: 0.000010758638, y: -0.14410836, z: -1.5257059}
+    m_Extent: {x: 0.16687799, y: 0.8275195, z: 0.82751954}
+  m_DirtyAABB: 0
+--- !u!1 &2063489894413055306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8201818699014740920}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandPinky3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8201818699014740920
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2063489894413055306}
+  m_LocalRotation: {x: 0.0000021030237, y: -0.0000006173049, z: -0.50580037, w: 0.8626506}
+  m_LocalPosition: {x: -0.00059063965, y: 0.000000015552573, z: -0.000000035814786}
+  m_LocalScale: {x: 0.9999837, y: 0.9999642, z: 0.99998826}
+  m_Children:
+  - {fileID: 4511921081879920609}
+  m_Father: {fileID: 3018065229553331336}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2180690820817935701
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7198664400557519911}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7198664400557519911
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2180690820817935701}
+  m_LocalRotation: {x: 0, y: 0, z: 0.5682603, w: 0.8228489}
+  m_LocalPosition: {x: -0.009471571, y: 0.000000019020069, z: -0.00000013732374}
+  m_LocalScale: {x: 1.0000188, y: 1.0000155, z: 1.0000154}
+  m_Children:
+  - {fileID: 1772747906400241132}
+  m_Father: {fileID: 4934127933106667939}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2191230737029074359
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3234440545097253532}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_HeadNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3234440545097253532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2191230737029074359}
+  m_LocalRotation: {x: -1.4210855e-14, y: 0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.005346927, y: 0, z: -5.9138983e-12}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 6458725054525910934}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2267674660348230115
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5080920204314152338}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandPinky1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5080920204314152338
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2267674660348230115}
+  m_LocalRotation: {x: 0.000017935196, y: -0.0000647815, z: -0.28631654, w: 0.9581351}
+  m_LocalPosition: {x: -0.0019274706, y: -0.00006665142, z: 0.00091701065}
+  m_LocalScale: {x: 1.0000386, y: 1.0000267, z: 1.0000014}
+  m_Children:
+  - {fileID: 8063801707743861791}
+  m_Father: {fileID: 740598564286359173}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2382773870921258262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4097116049360958643}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftShoulder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4097116049360958643
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2382773870921258262}
+  m_LocalRotation: {x: -0.64539146, y: 0.09274743, z: 0.7491537, w: 0.116775654}
+  m_LocalPosition: {x: 0.00074371207, y: -0.00018048222, z: 0.0009981595}
+  m_LocalScale: {x: 0.99997556, y: 0.99998313, z: 0.9999754}
+  m_Children:
+  - {fileID: 7279951015435056991}
+  m_Father: {fileID: 6792911743673508116}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2453101051198914999
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9115481028594834498}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightToeBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9115481028594834498
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2453101051198914999}
+  m_LocalRotation: {x: -0.0011253698, y: -0.0008795485, z: -0.73942274, w: 0.67323995}
+  m_LocalPosition: {x: -0.0028027412, y: 0.003497021, z: -0.00000027092509}
+  m_LocalScale: {x: 1.0000073, y: 0.9999752, z: 1.0000038}
+  m_Children:
+  - {fileID: 7119113248165199056}
+  m_Father: {fileID: 3173932918092063570}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2469016948555732795
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5086285454006003789}
+  m_Layer: 0
+  m_Name: Rbike_pedal_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5086285454006003789
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2469016948555732795}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.27940542, y: 0.42152154, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3163723916396156429}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2591479582451881442
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 422187967997647415}
+  m_Layer: 0
+  m_Name: Rbike_root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &422187967997647415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2591479582451881442}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8032735222762184154}
+  - {fileID: 3163723916396156429}
+  - {fileID: 1609597227871312063}
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2676091894084846592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6458725054525910934}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6458725054525910934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2676091894084846592}
+  m_LocalRotation: {x: -0.0020721639, y: -0.015203048, z: 0.08306435, w: 0.9964261}
+  m_LocalPosition: {x: -0.0018775759, y: 0.00024548735, z: 0.000000010390585}
+  m_LocalScale: {x: 0.99999344, y: 0.9999882, z: 0.9999859}
+  m_Children:
+  - {fileID: 3234440545097253532}
+  m_Father: {fileID: 6792911743673508116}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2723597475882979687
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5088077750348559399}
+  - component: {fileID: 6294696218699501497}
+  m_Layer: 0
+  m_Name: LOD_02_Rbike_chain_set
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5088077750348559399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2723597475882979687}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0.01091893, y: 0.62108225, z: -0.17567779}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &6294696218699501497
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2723597475882979687}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b09cbd0d3c3b5a342af74404a4f2c5dc, type: 2}
+  - {fileID: 2100000, guid: 0f32078237e462748ba9d8536a7bd267, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300004, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 3163723916396156429}
+  - {fileID: 422187967997647415}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 422187967997647415}
+  m_AABB:
+    m_Center: {x: 0.017284974, y: 0.17489794, z: 0.6220007}
+    m_Extent: {x: 0.18633884, y: 0.45180514, z: 0.26598132}
+  m_DirtyAABB: 0
+--- !u!1 &2806447283007858747
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5735855811947790649}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandRing3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5735855811947790649
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2806447283007858747}
+  m_LocalRotation: {x: 0.00004208392, y: 0.000046593126, z: -0.6769301, w: 0.7360473}
+  m_LocalPosition: {x: -0.0006621627, y: 0.00000005751079, z: -0.000000016527618}
+  m_LocalScale: {x: 0.9999743, y: 0.9999479, z: 1.0000092}
+  m_Children:
+  - {fileID: 4059282564212630022}
+  m_Father: {fileID: 2586348474537344190}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2813380860236921900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6755489846214041453}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandThumb1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6755489846214041453
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2813380860236921900}
+  m_LocalRotation: {x: -0.79139984, y: 0.22185193, z: 0.029938743, w: 0.56883365}
+  m_LocalPosition: {x: -0.0003701801, y: 0.00038581135, z: 0.000758256}
+  m_LocalScale: {x: 1.0000176, y: 1.0000175, z: 1.000053}
+  m_Children:
+  - {fileID: 5872593042523810551}
+  m_Father: {fileID: 2001222431169792464}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2887736511663593085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3983149633356161030}
+  - component: {fileID: 6170699880371527599}
+  m_Layer: 0
+  m_Name: LOD_02_Rbike_handlebar_brake_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3983149633356161030
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2887736511663593085}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0.4321662, y: 2.2979028, z: 1.4451665}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &6170699880371527599
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2887736511663593085}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b09cbd0d3c3b5a342af74404a4f2c5dc, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300012, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 8032735222762184154}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 8032735222762184154}
+  m_AABB:
+    m_Center: {x: 0.4321662, y: -0.69760996, z: -0.3090281}
+    m_Extent: {x: 0.024815798, y: 0.06667268, z: 0.1918804}
+  m_DirtyAABB: 0
+--- !u!1 &2937788892341743805
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4059282564212630022}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandRingNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4059282564212630022
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2937788892341743805}
+  m_LocalRotation: {x: 0.000011116815, y: 0.000045577504, z: -0.6056995, w: 0.79569346}
+  m_LocalPosition: {x: -0.0007364541, y: 0.000000028001628, z: -0.000000013704479}
+  m_LocalScale: {x: 0.9999824, y: 0.99998873, z: 0.99999654}
+  m_Children: []
+  m_Father: {fileID: 5735855811947790649}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3234683981908574992
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7508705901784766893}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandMiddle2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7508705901784766893
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3234683981908574992}
+  m_LocalRotation: {x: 0.00008859374, y: -0.00002852101, z: -0.57473636, w: 0.8183387}
+  m_LocalPosition: {x: -0.0011892504, y: -0.00000010723324, z: 0.000000010474809}
+  m_LocalScale: {x: 1.0000297, y: 0.9999929, z: 0.9999995}
+  m_Children:
+  - {fileID: 1564648170476229586}
+  m_Father: {fileID: 2767778262186067147}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3274973511898505952
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6792911743673508116}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6792911743673508116
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3274973511898505952}
+  m_LocalRotation: {x: -0.00065914483, y: 0.015521577, z: 0.08236673, w: 0.996481}
+  m_LocalPosition: {x: -0.004197284, y: 0.00050725875, z: 0.000000052547463}
+  m_LocalScale: {x: 1.0000113, y: 1.0000137, z: 1.000014}
+  m_Children:
+  - {fileID: 6458725054525910934}
+  - {fileID: 4097116049360958643}
+  - {fileID: 3207541304561078468}
+  m_Father: {fileID: 5712002736052701608}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3291332993566206285
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1564648170476229586}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandMiddle3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1564648170476229586
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3291332993566206285}
+  m_LocalRotation: {x: 0.0000692179, y: 0.000038603932, z: -0.71290344, w: 0.7012622}
+  m_LocalPosition: {x: -0.0008557969, y: 0.000000074635466, z: -0.000000017688725}
+  m_LocalScale: {x: 1.0000198, y: 0.99997735, z: 0.999999}
+  m_Children:
+  - {fileID: 8047267601946329307}
+  m_Father: {fileID: 7508705901784766893}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3391591557470907611
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2362525868787873110}
+  m_Layer: 0
+  m_Name: Rbike_pedal_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2362525868787873110
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3391591557470907611}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.18687342, y: -0.42656893, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3163723916396156429}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3510287833133821809
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5448294600736290551}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandRing1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5448294600736290551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3510287833133821809}
+  m_LocalRotation: {x: 0.005134466, y: -0.011471023, z: -0.3156459, w: 0.9487938}
+  m_LocalPosition: {x: -0.0020562022, y: -0.00022452917, z: -0.00040935952}
+  m_LocalScale: {x: 1.0000244, y: 1.0000243, z: 1.0000072}
+  m_Children:
+  - {fileID: 439772038199794540}
+  m_Father: {fileID: 2001222431169792464}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3531236937630097930
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8032710941700282246}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandPinky1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8032710941700282246
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3531236937630097930}
+  m_LocalRotation: {x: 0.000004371505, y: -0.000019590218, z: -0.123732, w: 0.99231565}
+  m_LocalPosition: {x: -0.0019275609, y: -0.000066662506, z: -0.0009169884}
+  m_LocalScale: {x: 1.0000253, y: 1.0000268, z: 1.0000052}
+  m_Children:
+  - {fileID: 3018065229553331336}
+  m_Father: {fileID: 2001222431169792464}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3632985833414959221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7584275393395526133}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandThumb1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7584275393395526133
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3632985833414959221}
+  m_LocalRotation: {x: 0.6449082, y: -0.24348794, z: -0.03013422, w: 0.7238087}
+  m_LocalPosition: {x: -0.000370199, y: 0.0003858289, z: -0.0007582271}
+  m_LocalScale: {x: 1.0000118, y: 1.0000021, z: 1.0000098}
+  m_Children:
+  - {fileID: 4829608366772339340}
+  m_Father: {fileID: 740598564286359173}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3641474544454414860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 229165385719810674}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &229165385719810674
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3641474544454414860}
+  m_LocalRotation: {x: -0.4999993, y: 0.5000007, z: 0.49999923, w: 0.5000008}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999186, y: 0.99991536, z: 0.99991775}
+  m_Children:
+  - {fileID: 7729840364925327707}
+  m_Father: {fileID: 8822028069017264347}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3668704689339128585
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5787510144060060702}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightForeArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5787510144060060702
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3668704689339128585}
+  m_LocalRotation: {x: 0, y: 0, z: 0.42325673, w: 0.9060098}
+  m_LocalPosition: {x: -0.0076508606, y: -0.00000058724936, z: -0.0000006352806}
+  m_LocalScale: {x: 1.00002, y: 0.9999892, z: 1.0000008}
+  m_Children:
+  - {fileID: 2001222431169792464}
+  m_Father: {fileID: 3952742735381595964}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3742808424310969710
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4419206126968459958}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandIndex2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4419206126968459958
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3742808424310969710}
+  m_LocalRotation: {x: 0.00004214087, y: -0.00004449, z: -0.48903093, w: 0.8722665}
+  m_LocalPosition: {x: -0.0010628531, y: -0.00000014301511, z: -0.000000027323162}
+  m_LocalScale: {x: 1.0000331, y: 1.0000073, z: 0.99999917}
+  m_Children:
+  - {fileID: 8371132982627892169}
+  m_Father: {fileID: 5453547335145452630}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3784231940196712268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8822028069017264347}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_Hips
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8822028069017264347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3784231940196712268}
+  m_LocalRotation: {x: -0.30532175, y: 0.30532104, z: 0.63779134, w: 0.637793}
+  m_LocalPosition: {x: 0.0000032217372, y: 2.502964, z: -0.5350181}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children:
+  - {fileID: 229165385719810674}
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3943010430579743808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 153133401527543634}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandIndex3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &153133401527543634
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3943010430579743808}
+  m_LocalRotation: {x: 0.000009272017, y: -0.00000005163856, z: -0.42727187, w: 0.9041232}
+  m_LocalPosition: {x: -0.0007446877, y: -0.000000005898925, z: -0.00000003425662}
+  m_LocalScale: {x: 1.0000017, y: 0.9999925, z: 0.99999833}
+  m_Children:
+  - {fileID: 1640296765613446602}
+  m_Father: {fileID: 8615722906237259239}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4015861469268208119
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3163723916396156429}
+  m_Layer: 0
+  m_Name: Rbike_pedalroot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3163723916396156429
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4015861469268208119}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0402363, y: 0.17566547, z: 0.62082016}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5086285454006003789}
+  - {fileID: 2362525868787873110}
+  m_Father: {fileID: 422187967997647415}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4050997232577284316
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7729840364925327707}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7729840364925327707
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4050997232577284316}
+  m_LocalRotation: {x: 0.00016349672, y: -0.00009216947, z: -0.099550866, w: 0.9950325}
+  m_LocalPosition: {x: -0.0025197437, y: -0.00017825674, z: 0.00000028681532}
+  m_LocalScale: {x: 1.0000061, y: 1.0000046, z: 0.9999979}
+  m_Children:
+  - {fileID: 4934127933106667939}
+  - {fileID: 5988026303159714093}
+  - {fileID: 5370146861734081250}
+  m_Father: {fileID: 229165385719810674}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4148886789888073494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1217979001725925835}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandThumb3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1217979001725925835
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4148886789888073494}
+  m_LocalRotation: {x: -0.000000027138427, y: 0.0000026143923, z: -0.14089249, w: 0.9900249}
+  m_LocalPosition: {x: -0.0008738496, y: -0.00000009938783, z: -0.000000025752186}
+  m_LocalScale: {x: 0.99998075, y: 1.0000006, z: 0.999997}
+  m_Children:
+  - {fileID: 7611990115519514672}
+  m_Father: {fileID: 5872593042523810551}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4182177927430123147
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2767778262186067147}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandMiddle1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2767778262186067147
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4182177927430123147}
+  m_LocalRotation: {x: 0.000026126048, y: -0.00010401686, z: -0.25387496, w: 0.96723706}
+  m_LocalPosition: {x: -0.0021905382, y: -0.0002701952, z: -0.00011296543}
+  m_LocalScale: {x: 1.000028, y: 1.0000193, z: 1.0000023}
+  m_Children:
+  - {fileID: 7508705901784766893}
+  m_Father: {fileID: 740598564286359173}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4287170092795027924
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6226100881157644597}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftToeBaseNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6226100881157644597
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4287170092795027924}
+  m_LocalRotation: {x: -1.7462298e-10, y: -1.0692574e-26, z: 1, w: -6.123234e-17}
+  m_LocalPosition: {x: -0.0020848957, y: 7.56979e-10, z: -7.56979e-10}
+  m_LocalScale: {x: -0.9999999, y: -1, z: -1}
+  m_Children: []
+  m_Father: {fileID: 769695288523179989}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4381441953543522417
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 439772038199794540}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandRing2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &439772038199794540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4381441953543522417}
+  m_LocalRotation: {x: 0.000018425038, y: 0.0000006785326, z: -0.6898011, w: 0.72399896}
+  m_LocalPosition: {x: -0.0012143599, y: -0.0000001752572, z: -0.0000000011256867}
+  m_LocalScale: {x: 1.0000145, y: 0.99999535, z: 1.000016}
+  m_Children:
+  - {fileID: 2809433301767418939}
+  m_Father: {fileID: 5448294600736290551}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4533158223676910149
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2112684539786739402}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandMiddle3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2112684539786739402
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4533158223676910149}
+  m_LocalRotation: {x: 0.0000025202564, y: -0.00000031295383, z: -0.4943449, w: 0.86926585}
+  m_LocalPosition: {x: -0.0008558552, y: 0.000000014086059, z: -0.000000027266548}
+  m_LocalScale: {x: 0.99999005, y: 0.99997824, z: 0.99999756}
+  m_Children:
+  - {fileID: 6963481760148371444}
+  m_Father: {fileID: 8988115025187415273}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4707793276297980679
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8032735222762184154}
+  m_Layer: 0
+  m_Name: Rbike_handles
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8032735222762184154
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4707793276297980679}
+  m_LocalRotation: {x: -0.13158129, y: 0, z: -0, w: 0.9913054}
+  m_LocalPosition: {x: -0.000000002743938, y: -0.7673545, z: 2.2705724}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7066134255147175676}
+  m_Father: {fileID: 422187967997647415}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4749028135025007834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8371132982627892169}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandIndex3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8371132982627892169
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4749028135025007834}
+  m_LocalRotation: {x: 0.000040646217, y: -0.000030296198, z: -0.38431975, w: 0.9232001}
+  m_LocalPosition: {x: -0.0007446623, y: -0.00000012030385, z: 0.000000021624}
+  m_LocalScale: {x: 1.0000196, y: 0.99998766, z: 0.9999997}
+  m_Children:
+  - {fileID: 8371264766268358796}
+  m_Father: {fileID: 4419206126968459958}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4928530837644218507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1639998428738625209}
+  - component: {fileID: 2910441239671142572}
+  m_Layer: 0
+  m_Name: LOD_02_Rbike_wheel_rear
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1639998428738625209
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4928530837644218507}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0.000010753833, y: 0.83531606, z: -1.2126088}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2910441239671142572
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4928530837644218507}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: f63ed701cc38a834587436204c9d4d73, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300018, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 1609597227871312063}
+  - {fileID: 422187967997647415}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 422187967997647415}
+  m_AABB:
+    m_Center: {x: -0.00025713444, y: 1.212609, z: 0.8353163}
+    m_Extent: {x: 0.20872611, y: 0.8275194, z: 0.82751954}
+  m_DirtyAABB: 0
+--- !u!1 &5365564228780097077
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6963481760148371444}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandMiddleNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6963481760148371444
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5365564228780097077}
+  m_LocalRotation: {x: -0.013956908, y: 0.9999026, z: 0.000012019562, w: -0.000007092666}
+  m_LocalPosition: {x: -0.0007818298, y: 0.000008899972, z: -0.0000000031097973}
+  m_LocalScale: {x: -1.0000093, y: -1.0000143, z: -1.0000266}
+  m_Children: []
+  m_Father: {fileID: 2112684539786739402}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5368965135499423089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7611990115519514672}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandThumbNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7611990115519514672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5368965135499423089}
+  m_LocalRotation: {x: 0.14088182, y: 0.9900264, z: 0.0000012797545, w: -0.0000014318834}
+  m_LocalPosition: {x: -0.00073408644, y: -0.000000051801855, z: 0.00000001786778}
+  m_LocalScale: {x: -1.0000013, y: -1.0000165, z: -0.9999863}
+  m_Children: []
+  m_Father: {fileID: 1217979001725925835}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5451502840855979449
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6557272528949014768}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandMiddle1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6557272528949014768
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5451502840855979449}
+  m_LocalRotation: {x: 0.000009370953, y: -0.000018485964, z: -0.37260625, w: 0.92798954}
+  m_LocalPosition: {x: -0.002190455, y: -0.00027023602, z: 0.00011302556}
+  m_LocalScale: {x: 1.0000219, y: 1.0000225, z: 1.0000107}
+  m_Children:
+  - {fileID: 8988115025187415273}
+  m_Father: {fileID: 2001222431169792464}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5522054601879856743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5749424823312305259}
+  - component: {fileID: 2202298124093968594}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_Mesh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5749424823312305259
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5522054601879856743}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2202298124093968594
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5522054601879856743}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a9c198658ca032344bbcffa0922cb97c, type: 2}
+  - {fileID: 2100000, guid: c05c0195353bef84e88e5776e79f13cf, type: 2}
+  - {fileID: 2100000, guid: 3f56d94491674464aa8ee0ae0f27e096, type: 2}
+  - {fileID: 2100000, guid: 8d3ce8bf67c5fa040898cb0d69ca0f48, type: 2}
+  - {fileID: 2100000, guid: 3df29249495985f4393dbc360afcce9e, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300020, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 229165385719810674}
+  - {fileID: 4934127933106667939}
+  - {fileID: 7198664400557519911}
+  - {fileID: 5988026303159714093}
+  - {fileID: 1772747906400241132}
+  - {fileID: 7729840364925327707}
+  - {fileID: 5370146861734081250}
+  - {fileID: 2282130096422315338}
+  - {fileID: 3173932918092063570}
+  - {fileID: 9115481028594834498}
+  - {fileID: 769695288523179989}
+  - {fileID: 7393384539130424194}
+  - {fileID: 5712002736052701608}
+  - {fileID: 3952742735381595964}
+  - {fileID: 4097116049360958643}
+  - {fileID: 7279951015435056991}
+  - {fileID: 6792911743673508116}
+  - {fileID: 3207541304561078468}
+  - {fileID: 6458725054525910934}
+  - {fileID: 2586348474537344190}
+  - {fileID: 5735855811947790649}
+  - {fileID: 4419206126968459958}
+  - {fileID: 8371132982627892169}
+  - {fileID: 4829608366772339340}
+  - {fileID: 696629083570009070}
+  - {fileID: 7508705901784766893}
+  - {fileID: 1564648170476229586}
+  - {fileID: 740598564286359173}
+  - {fileID: 2767778262186067147}
+  - {fileID: 726988312172163326}
+  - {fileID: 5080920204314152338}
+  - {fileID: 5064447241377462967}
+  - {fileID: 8063801707743861791}
+  - {fileID: 7584275393395526133}
+  - {fileID: 5453547335145452630}
+  - {fileID: 2806277423781143703}
+  - {fileID: 439772038199794540}
+  - {fileID: 2809433301767418939}
+  - {fileID: 8615722906237259239}
+  - {fileID: 153133401527543634}
+  - {fileID: 5872593042523810551}
+  - {fileID: 1217979001725925835}
+  - {fileID: 8988115025187415273}
+  - {fileID: 2112684539786739402}
+  - {fileID: 2001222431169792464}
+  - {fileID: 6557272528949014768}
+  - {fileID: 5448294600736290551}
+  - {fileID: 8032710941700282246}
+  - {fileID: 3018065229553331336}
+  - {fileID: 5787510144060060702}
+  - {fileID: 6755489846214041453}
+  - {fileID: 6968816239367411069}
+  - {fileID: 8201818699014740920}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 229165385719810674}
+  m_AABB:
+    m_Center: {x: -0.0024524415, y: 0.007577924, z: -0.00033282815}
+    m_Extent: {x: 0.019803848, y: 0.011924993, z: 0.008427734}
+  m_DirtyAABB: 0
+--- !u!1 &5624249172953732257
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7279951015435056991}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7279951015435056991
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5624249172953732257}
+  m_LocalRotation: {x: -0.35283545, y: -0.41656986, z: 0.5088078, w: 0.6656511}
+  m_LocalPosition: {x: -0.0037099, y: -0.000000039613166, z: -0.00000021137154}
+  m_LocalScale: {x: 1.000046, y: 1.0000422, z: 1.0000283}
+  m_Children:
+  - {fileID: 5064447241377462967}
+  m_Father: {fileID: 4097116049360958643}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5681714733186789294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3207541304561078468}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightShoulder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3207541304561078468
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5681714733186789294}
+  m_LocalRotation: {x: 0.5934055, y: -0.078006744, z: 0.8006153, w: 0.028287062}
+  m_LocalPosition: {x: 0.0008136174, y: -0.00018371768, z: -0.000997614}
+  m_LocalScale: {x: 1.0000168, y: 0.9999877, z: 0.99998045}
+  m_Children:
+  - {fileID: 3952742735381595964}
+  m_Father: {fileID: 6792911743673508116}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5785224127563457944
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1772747906400241132}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftFoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1772747906400241132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5785224127563457944}
+  m_LocalRotation: {x: -0.0052507604, y: 0.01299884, z: -0.31895724, w: 0.94766545}
+  m_LocalPosition: {x: -0.009365702, y: -0.00000029198674, z: -0.000000019407773}
+  m_LocalScale: {x: 0.9999407, y: 0.99994713, z: 0.99993354}
+  m_Children:
+  - {fileID: 769695288523179989}
+  m_Father: {fileID: 7198664400557519911}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5887882396352624913
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4435714810168848621}
+  - component: {fileID: 3452171985094420476}
+  - component: {fileID: 6831089303448752274}
+  - component: {fileID: 3593104327052707507}
+  m_Layer: 9
+  m_Name: Cyclist_female_1_export
+  m_TagString: Vehicle
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4435714810168848621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5887882396352624913}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
+  m_Children:
+  - {fileID: 6292122124763030253}
+  - {fileID: 4945589705021643976}
+  - {fileID: 4780106322041978712}
+  - {fileID: 5088077750348559399}
+  - {fileID: 5640893308721257764}
+  - {fileID: 3086109699484234048}
+  - {fileID: 3983149633356161030}
+  - {fileID: 674716969332547425}
+  - {fileID: 3448805972682038052}
+  - {fileID: 4655673999498842737}
+  - {fileID: 8606740079133758684}
+  - {fileID: 1639998428738625209}
+  - {fileID: 422187967997647415}
+  - {fileID: 8822028069017264347}
+  - {fileID: 5749424823312305259}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &3452171985094420476
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5887882396352624913}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Controller: {fileID: 9100000, guid: e3094cd008749b649ba4271d9658a3d5, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &6831089303448752274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5887882396352624913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03831dbc66ad824290d8138af20400b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vehicleLength: 1.6854777
+  frontOffset: 0.8633652
+  rearOffset: 0.8221126
+  curvePos: 0
+  currentLane: 0
+  oldLane: 0
+  speed: 0
+  accelerate: 0
+  isMerging: 0
+  isMergingFromRight: 0
+  vehicleType: 3
+  divergePercentage: 50
+  allowLeavingPath: 0
+  dt_lane_tweening: 0
+  timeSinceLastLC: 0
+  passiveLCTime: 0
+  iLead: 0
+  iFollow: 0
+  iLeadRight: 0
+  iLeadLeft: 0
+  iFollowRight: 0
+  iFollowLeft: 0
+  longModel: {fileID: 0}
+  LCModel: {fileID: 0}
+  externalLead: {fileID: 0}
+  externalLeadCurvePos: 0
+  yieldingReference: {fileID: 0}
+  vehicleTrans: {fileID: 4435714810168848621}
+  trailerTrans: {fileID: 0}
+  wheels: []
+  wheelAxis: 2
+  debug: 0
+--- !u!114 &3593104327052707507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5887882396352624913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caa78e5d7faec2c4097ca217c5fd6478, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &6374955729049411107
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3086109699484234048}
+  - component: {fileID: 3235185479948060276}
+  m_Layer: 0
+  m_Name: LOD_02_Rbike_handlebar_brake_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3086109699484234048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6374955729049411107}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0.43214485, y: 2.2979028, z: 1.4451665}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &3235185479948060276
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6374955729049411107}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b09cbd0d3c3b5a342af74404a4f2c5dc, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300014, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 8032735222762184154}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 8032735222762184154}
+  m_AABB:
+    m_Center: {x: -0.43214485, y: -0.69760996, z: -0.3090281}
+    m_Extent: {x: 0.024815828, y: 0.06667268, z: 0.1918804}
+  m_DirtyAABB: 0
+--- !u!1 &6462303967989627426
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4511921081879920609}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandPinkyNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4511921081879920609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6462303967989627426}
+  m_LocalRotation: {x: 0.0067128465, y: 0.99997747, z: 0.000002324419, w: -0.000009039348}
+  m_LocalPosition: {x: -0.00072083704, y: 0.000009753545, z: 0.000000030534398}
+  m_LocalScale: {x: -0.9999944, y: -0.99999404, z: -1.0000327}
+  m_Children: []
+  m_Father: {fileID: 8201818699014740920}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6508972061887923154
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8063801707743861791}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandPinky2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8063801707743861791
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6508972061887923154}
+  m_LocalRotation: {x: 0.00004181371, y: -0.000010806266, z: -0.38024083, w: 0.92488754}
+  m_LocalPosition: {x: -0.0007609922, y: -0.00000003727269, z: -0.000000021838323}
+  m_LocalScale: {x: 1.0000064, y: 0.9999916, z: 0.9999969}
+  m_Children:
+  - {fileID: 2806277423781143703}
+  m_Father: {fileID: 5080920204314152338}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6599413643316730496
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8047267601946329307}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandMiddleNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8047267601946329307
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6599413643316730496}
+  m_LocalRotation: {x: 0.00003279216, y: 0.00009623337, z: -0.5991059, w: 0.8006698}
+  m_LocalPosition: {x: -0.00078132655, y: -0.000025682852, z: 0.000000025043153}
+  m_LocalScale: {x: 0.9999799, y: 0.99996686, z: 1.0000029}
+  m_Children: []
+  m_Father: {fileID: 1564648170476229586}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6752557211506671907
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7066134255147175676}
+  m_Layer: 0
+  m_Name: Rbike_wheelfront
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7066134255147175676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6752557211506671907}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0000000029974072, y: -0.14419352, z: -1.5257603}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8032735222762184154}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6785455809988539723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5988026303159714093}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightUpLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5988026303159714093
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6785455809988539723}
+  m_LocalRotation: {x: 0.7325873, y: -0.6804077, z: -0.016116284, w: 0.010076222}
+  m_LocalPosition: {x: 0.0024645503, y: 0.0005509215, z: -0.0031530925}
+  m_LocalScale: {x: 1.00001, y: 1.0000035, z: 1.000013}
+  m_Children:
+  - {fileID: 2282130096422315338}
+  m_Father: {fileID: 7729840364925327707}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6995828575391321194
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7119113248165199056}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightToeBaseNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7119113248165199056
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6995828575391321194}
+  m_LocalRotation: {x: 0, y: 1.7462298e-10, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0020848957, y: 0, z: -0.0000000011354685}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 9115481028594834498}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7349157334348291579
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5453547335145452630}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandIndex1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5453547335145452630
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7349157334348291579}
+  m_LocalRotation: {x: 0.023099944, y: 0.024871405, z: -0.20211391, w: 0.97877365}
+  m_LocalPosition: {x: -0.002264015, y: -0.00016454452, z: -0.00071079924}
+  m_LocalScale: {x: 1.0000104, y: 1.0000029, z: 1.0000062}
+  m_Children:
+  - {fileID: 4419206126968459958}
+  m_Father: {fileID: 740598564286359173}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7511712217089201960
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6628152403668083274}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandPinkyNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6628152403668083274
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7511712217089201960}
+  m_LocalRotation: {x: -0.0000012525873, y: 0.0000023554733, z: -0.61033016, w: 0.79214716}
+  m_LocalPosition: {x: -0.00072034675, y: 0.000023461722, z: -0.000000022954087}
+  m_LocalScale: {x: 0.99997747, y: 0.9999921, z: 1.0000061}
+  m_Children: []
+  m_Father: {fileID: 2806277423781143703}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7585157861435685219
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7393384539130424194}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_Spine3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7393384539130424194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7585157861435685219}
+  m_LocalRotation: {x: 0.00006793023, y: -0.000040141716, z: -0.043505266, w: 0.99905324}
+  m_LocalPosition: {x: -0.0029702107, y: -0.0000023708858, z: 0.00000002681217}
+  m_LocalScale: {x: 1.0000126, y: 1.0000094, z: 1.0000105}
+  m_Children:
+  - {fileID: 5712002736052701608}
+  m_Father: {fileID: 5370146861734081250}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7618476177454362175
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5872593042523810551}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandThumb2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5872593042523810551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7618476177454362175}
+  m_LocalRotation: {x: 0.0000041567914, y: -0.0000045336974, z: -0.083121344, w: 0.9965395}
+  m_LocalPosition: {x: -0.001100528, y: -0.000000016610375, z: -0.00000003698042}
+  m_LocalScale: {x: 0.9999908, y: 1.000005, z: 0.9999964}
+  m_Children:
+  - {fileID: 1217979001725925835}
+  m_Father: {fileID: 6755489846214041453}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7630706448789210892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2282130096422315338}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2282130096422315338
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7630706448789210892}
+  m_LocalRotation: {x: 0, y: 0, z: 0.5265646, w: 0.85013515}
+  m_LocalPosition: {x: -0.009471899, y: -0.000000089728026, z: -0.00000013334478}
+  m_LocalScale: {x: 1.0000025, y: 1.0000026, z: 1.0000005}
+  m_Children:
+  - {fileID: 3173932918092063570}
+  m_Father: {fileID: 5988026303159714093}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7890789303790069464
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3018065229553331336}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandPinky2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3018065229553331336
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7890789303790069464}
+  m_LocalRotation: {x: 0.000017119773, y: -0.000003846667, z: -0.51317877, w: 0.85828173}
+  m_LocalPosition: {x: -0.0007610987, y: -0.0000000664001, z: -0.00000001979341}
+  m_LocalScale: {x: 1.0000137, y: 1.0000007, z: 1.0000062}
+  m_Children:
+  - {fileID: 8201818699014740920}
+  m_Father: {fileID: 8032710941700282246}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8118146567079015837
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5712002736052701608}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_Spine4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5712002736052701608
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8118146567079015837}
+  m_LocalRotation: {x: 0.00006663438, y: -0.000040061073, z: -0.043504532, w: 0.99905324}
+  m_LocalPosition: {x: -0.0029705283, y: -0.0000027357064, z: 0.000000023531218}
+  m_LocalScale: {x: 0.9999883, y: 0.99998516, z: 0.9999883}
+  m_Children:
+  - {fileID: 6792911743673508116}
+  m_Father: {fileID: 7393384539130424194}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8194432385329342069
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8988115025187415273}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandMiddle2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8988115025187415273
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8194432385329342069}
+  m_LocalRotation: {x: 0.000021901482, y: -0.000007400425, z: -0.5734156, w: 0.81926465}
+  m_LocalPosition: {x: -0.0011893391, y: -0.00000014086329, z: -0.000000006874683}
+  m_LocalScale: {x: 1.000018, y: 0.9999991, z: 1.0000033}
+  m_Children:
+  - {fileID: 2112684539786739402}
+  m_Father: {fileID: 6557272528949014768}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8195058100356060173
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 674716969332547425}
+  - component: {fileID: 7273158656523750063}
+  m_Layer: 0
+  m_Name: LOD_02_Rbike_pedal_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &674716969332547425
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8195058100356060173}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0.15831405, y: 0.6210259, z: -0.59854984}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &7273158656523750063
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8195058100356060173}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b09cbd0d3c3b5a342af74404a4f2c5dc, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300008, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 5086285454006003789}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5086285454006003789}
+  m_AABB:
+    m_Center: {x: -0.011990264, y: 0.001362972, z: 0.0076134335}
+    m_Extent: {x: 0.105994195, y: 0.09987282, z: 0.024828492}
+  m_DirtyAABB: 0
+--- !u!1 &8314242417355469714
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5198208931065873512}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandRingNub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5198208931065873512
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8314242417355469714}
+  m_LocalRotation: {x: -0.0070211007, y: 0.9999754, z: 0.000004750566, w: -0.000006158777}
+  m_LocalPosition: {x: -0.0007366294, y: 0.0000057772313, z: 7.4867507e-10}
+  m_LocalScale: {x: -0.9999952, y: -0.99999183, z: -1.0000199}
+  m_Children: []
+  m_Father: {fileID: 2809433301767418939}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8781409890540107978
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4934127933106667939}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftUpLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4934127933106667939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8781409890540107978}
+  m_LocalRotation: {x: -0.5884107, y: 0.80845636, z: -0.005062264, w: 0.012067559}
+  m_LocalPosition: {x: 0.0024654015, y: 0.0005531383, z: 0.0031514792}
+  m_LocalScale: {x: 1.0000111, y: 1.000004, z: 1.0000126}
+  m_Children:
+  - {fileID: 7198664400557519911}
+  m_Father: {fileID: 7729840364925327707}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8907944422191188035
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2809433301767418939}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightHandRing3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2809433301767418939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8907944422191188035}
+  m_LocalRotation: {x: 0.0000008543036, y: 0.0000034824918, z: -0.4891177, w: 0.87221783}
+  m_LocalPosition: {x: -0.0006622393, y: 0.000000041346887, z: -0.00000001966907}
+  m_LocalScale: {x: 0.9999792, y: 0.9999739, z: 0.99999136}
+  m_Children:
+  - {fileID: 5198208931065873512}
+  m_Father: {fileID: 439772038199794540}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9104982412487709879
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 726988312172163326}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_LeftHandRing1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &726988312172163326
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9104982412487709879}
+  m_LocalRotation: {x: 0.00003165594, y: -0.000092225695, z: -0.35722917, w: 0.93401676}
+  m_LocalPosition: {x: -0.0020562091, y: -0.00022453685, z: 0.0004093889}
+  m_LocalScale: {x: 1.0000346, y: 1.0000223, z: 1.0000025}
+  m_Children:
+  - {fileID: 2586348474537344190}
+  m_Father: {fileID: 740598564286359173}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9120172146081944220
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3952742735381595964}
+  m_Layer: 0
+  m_Name: Woman0019-M4-CS_RightArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3952742735381595964
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9120172146081944220}
+  m_LocalRotation: {x: 0.23205906, y: 0.2830168, z: 0.47912002, w: 0.7978058}
+  m_LocalPosition: {x: -0.0037101922, y: 0.00000007478066, z: 0.00000020775404}
+  m_LocalScale: {x: 1.0000402, y: 1.0000198, z: 1.0000128}
+  m_Children:
+  - {fileID: 5787510144060060702}
+  m_Father: {fileID: 3207541304561078468}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9219628462255530647
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4780106322041978712}
+  - component: {fileID: 6586541959280594467}
+  m_Layer: 0
+  m_Name: LOD_02_Rbike_body
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4780106322041978712
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9219628462255530647}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0.00004885353, y: 0, z: 0}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 4435714810168848621}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &6586541959280594467
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9219628462255530647}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b09cbd0d3c3b5a342af74404a4f2c5dc, type: 2}
+  - {fileID: 2100000, guid: f63ed701cc38a834587436204c9d4d73, type: 2}
+  - {fileID: 2100000, guid: 0f32078237e462748ba9d8536a7bd267, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300006, guid: af7759ade1cfb934d809919c14cc299b, type: 3}
+  m_Bones:
+  - {fileID: 422187967997647415}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 422187967997647415}
+  m_AABB:
+    m_Center: {x: 0.020660952, y: 0.17845663, z: 1.253063}
+    m_Extent: {x: 0.21470618, y: 1.1517557, z: 0.89831656}
+  m_DirtyAABB: 0

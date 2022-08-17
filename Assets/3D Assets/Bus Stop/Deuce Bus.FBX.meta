@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 94e354e2b66579e4aa2ed93a69a1114e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back Wheels_01
+    100002: Back Wheels_02
+    100004: Box001
+    100006: Box002
+    100008: Box003
+    100010: Box004
+    100012: Box005
+    100014: Box006
+    100016: Box007
+    100018: Box008
+    100020: Box009
+    100022: Box010
+    100024: Box011
+    100026: Box012
+    100028: Box013
+    100030: Box014
+    100032: Box015
+    100034: Box016
+    100036: Box021
+    100038: Box024
+    100040: Box025
+    100042: Box026
+    100044: Box027
+    100046: Box028
+    100048: Box029
+    100050: Box030
+    100052: Box031
+    100054: Box032
+    100056: Box033
+    100058: Box034
+    100060: Box035
+    100062: Box036
+    100064: Box037
+    100066: Box038
+    100068: Box039
+    100070: Box040
+    100072: Box041
+    100074: Box042
+    100076: Box044
+    100078: Box045
+    100080: Box046
+    100082: Box047
+    100084: Box048
+    100086: Box050
+    100088: Box051
+    100090: Box052
+    100092: Box053
+    100094: Box054
+    100096: Box055
+    100098: Box056
+    100100: Box057
+    100102: Box058
+    100104: //RootNode
+    100106: Deuse Bus_01
+    100108: EMTLLAN004
+    100110: EMTLLAN005
+    100112: EMTLLAN006
+    100114: EMTLLAN007
+    100116: EMTLLAN2
+    100118: EMTLLAN3
+    100120: EMTRUED008
+    100122: EMTRUED009
+    100124: EMTRUED010
+    100126: EMTRUED011
+    100128: EMTRUED5
+    100130: EMTRUED7
+    100132: Front Wheels
+    400000: Back Wheels_01
+    400002: Back Wheels_02
+    400004: Box001
+    400006: Box002
+    400008: Box003
+    400010: Box004
+    400012: Box005
+    400014: Box006
+    400016: Box007
+    400018: Box008
+    400020: Box009
+    400022: Box010
+    400024: Box011
+    400026: Box012
+    400028: Box013
+    400030: Box014
+    400032: Box015
+    400034: Box016
+    400036: Box021
+    400038: Box024
+    400040: Box025
+    400042: Box026
+    400044: Box027
+    400046: Box028
+    400048: Box029
+    400050: Box030
+    400052: Box031
+    400054: Box032
+    400056: Box033
+    400058: Box034
+    400060: Box035
+    400062: Box036
+    400064: Box037
+    400066: Box038
+    400068: Box039
+    400070: Box040
+    400072: Box041
+    400074: Box042
+    400076: Box044
+    400078: Box045
+    400080: Box046
+    400082: Box047
+    400084: Box048
+    400086: Box050
+    400088: Box051
+    400090: Box052
+    400092: Box053
+    400094: Box054
+    400096: Box055
+    400098: Box056
+    400100: Box057
+    400102: Box058
+    400104: //RootNode
+    400106: Deuse Bus_01
+    400108: EMTLLAN004
+    400110: EMTLLAN005
+    400112: EMTLLAN006
+    400114: EMTLLAN007
+    400116: EMTLLAN2
+    400118: EMTLLAN3
+    400120: EMTRUED008
+    400122: EMTRUED009
+    400124: EMTRUED010
+    400126: EMTRUED011
+    400128: EMTRUED5
+    400130: EMTRUED7
+    400132: Front Wheels
+    2100000: No Name
+    2100002: Blue Trim
+    2100004: General Bronze
+    2100006: Glass
+    2100008: 08 - Default
+    2100010: 13 - Default
+    2100012: 14 - Default
+    2100014: 10 - Default
+    2100016: 15 - Default
+    2100018: 16 - Default
+    2100020: Wheels
+    2100022: Tires
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: Box013
+    2300026: Box014
+    2300028: Box015
+    2300030: Box016
+    2300032: Box021
+    2300034: Box024
+    2300036: Box025
+    2300038: Box026
+    2300040: Box027
+    2300042: Box028
+    2300044: Box029
+    2300046: Box030
+    2300048: Box031
+    2300050: Box032
+    2300052: Box033
+    2300054: Box034
+    2300056: Box035
+    2300058: Box036
+    2300060: Box037
+    2300062: Box038
+    2300064: Box039
+    2300066: Box040
+    2300068: Box041
+    2300070: Box042
+    2300072: Box044
+    2300074: Box045
+    2300076: Box046
+    2300078: Box047
+    2300080: Box048
+    2300082: Box050
+    2300084: Box051
+    2300086: Box052
+    2300088: Box053
+    2300090: Box054
+    2300092: Box055
+    2300094: Box056
+    2300096: Box057
+    2300098: Box058
+    2300100: Deuse Bus_01
+    2300102: EMTLLAN004
+    2300104: EMTLLAN005
+    2300106: EMTLLAN006
+    2300108: EMTLLAN007
+    2300110: EMTLLAN2
+    2300112: EMTLLAN3
+    2300114: EMTRUED008
+    2300116: EMTRUED009
+    2300118: EMTRUED010
+    2300120: EMTRUED011
+    2300122: EMTRUED5
+    2300124: EMTRUED7
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: Box013
+    3300026: Box014
+    3300028: Box015
+    3300030: Box016
+    3300032: Box021
+    3300034: Box024
+    3300036: Box025
+    3300038: Box026
+    3300040: Box027
+    3300042: Box028
+    3300044: Box029
+    3300046: Box030
+    3300048: Box031
+    3300050: Box032
+    3300052: Box033
+    3300054: Box034
+    3300056: Box035
+    3300058: Box036
+    3300060: Box037
+    3300062: Box038
+    3300064: Box039
+    3300066: Box040
+    3300068: Box041
+    3300070: Box042
+    3300072: Box044
+    3300074: Box045
+    3300076: Box046
+    3300078: Box047
+    3300080: Box048
+    3300082: Box050
+    3300084: Box051
+    3300086: Box052
+    3300088: Box053
+    3300090: Box054
+    3300092: Box055
+    3300094: Box056
+    3300096: Box057
+    3300098: Box058
+    3300100: Deuse Bus_01
+    3300102: EMTLLAN004
+    3300104: EMTLLAN005
+    3300106: EMTLLAN006
+    3300108: EMTLLAN007
+    3300110: EMTLLAN2
+    3300112: EMTLLAN3
+    3300114: EMTRUED008
+    3300116: EMTRUED009
+    3300118: EMTRUED010
+    3300120: EMTRUED011
+    3300122: EMTRUED5
+    3300124: EMTRUED7
+    4300000: Box021
+    4300002: Box001
+    4300004: Box002
+    4300006: Box003
+    4300008: Box004
+    4300010: Box005
+    4300012: Box006
+    4300014: Box007
+    4300016: Box008
+    4300018: Box009
+    4300020: Box010
+    4300022: Box011
+    4300024: Box012
+    4300026: Box013
+    4300028: Box014
+    4300030: Box015
+    4300032: Box016
+    4300034: Box058
+    4300036: Box024
+    4300038: Box025
+    4300040: Box026
+    4300042: Box027
+    4300044: Box028
+    4300046: Box029
+    4300048: Box030
+    4300050: Box031
+    4300052: Box032
+    4300054: Box033
+    4300056: Box034
+    4300058: Box035
+    4300060: Box036
+    4300062: Box037
+    4300064: Box038
+    4300066: Box039
+    4300068: Box040
+    4300070: Box041
+    4300072: Box042
+    4300074: Box044
+    4300076: Box045
+    4300078: Box046
+    4300080: Box047
+    4300082: Box048
+    4300084: Box050
+    4300086: Box051
+    4300088: Box052
+    4300090: Box053
+    4300092: Box054
+    4300094: Box055
+    4300096: Box056
+    4300098: Box057
+    4300100: Deuse Bus_01
+    4300102: EMTLLAN2
+    4300104: EMTRUED5
+    4300106: EMTRUED7
+    4300108: EMTLLAN3
+    4300110: EMTLLAN005
+    4300112: EMTRUED008
+    4300114: EMTRUED009
+    4300116: EMTLLAN004
+    4300118: EMTLLAN007
+    4300120: EMTRUED010
+    4300122: EMTRUED011
+    4300124: EMTLLAN006
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

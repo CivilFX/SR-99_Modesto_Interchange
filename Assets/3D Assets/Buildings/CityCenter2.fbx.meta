@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 2007cca50aee7eb4f88a54855461f97d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 01_WHITE 1
+    100002: 02_WHITE 2
+    100004: 03_WHITE 3
+    100006: 04_WHITE 4
+    100008: 05_WHITE 5
+    100010: 06_WHITE 6
+    100012: 06_WHITE 7
+    100014: BLACK
+    100016: BLUE
+    100018: //RootNode
+    100020: DARK BLUE 1
+    100022: DARK BLUE 2
+    100024: DARK BLUE 3
+    100026: LIGHT BLUE 1
+    100028: LIGHT BLUE 2
+    100030: LIGHT BLUE 3
+    100032: LIGHT BLUE 4
+    100034: LIGHT BLUE 5
+    100036: LIGHT BLUE 6
+    100038: LIGHT BLUE 7
+    100040: LIGHT BLUE 8
+    100042: LIGHT BLUE 9
+    100044: ORANGE
+    100046: YELLOW
+    400000: 01_WHITE 1
+    400002: 02_WHITE 2
+    400004: 03_WHITE 3
+    400006: 04_WHITE 4
+    400008: 05_WHITE 5
+    400010: 06_WHITE 6
+    400012: 06_WHITE 7
+    400014: BLACK
+    400016: BLUE
+    400018: //RootNode
+    400020: DARK BLUE 1
+    400022: DARK BLUE 2
+    400024: DARK BLUE 3
+    400026: LIGHT BLUE 1
+    400028: LIGHT BLUE 2
+    400030: LIGHT BLUE 3
+    400032: LIGHT BLUE 4
+    400034: LIGHT BLUE 5
+    400036: LIGHT BLUE 6
+    400038: LIGHT BLUE 7
+    400040: LIGHT BLUE 8
+    400042: LIGHT BLUE 9
+    400044: ORANGE
+    400046: YELLOW
+    2100000: M_0100_SteelBlue
+    2100002: _15
+    2100004: _7
+    2100006: _Gray6_
+    2100008: _22
+    2100010: M_0031_PapayaWhip
+    2100012: Color_M00
+    2100014: Color_B07
+    2100016: Color_B02
+    2100018: Color_B03
+    2100020: Color_A02
+    2100022: _14
+    2100024: _17
+    2100026: _26
+    2100028: Color_M01
+    2100030: jean_blue
+    2100032: _Translucent_Glass_Tinted_3
+    2100034: Color_M02
+    2100036: Color_M07
+    2100038: Color_H01
+    2100040: _Translucent_Glass_Tinted_5
+    2100042: _30
+    2100044: Translucent_Glass_Tinted
+    2100046: _32
+    2100048: FrontColor
+    2100050: _Translucent_Glass_Tinted_4
+    2100052: _38
+    2100054: _25
+    2100056: Color_M06
+    2100058: _46
+    2100060: Cladding_Stucco_White
+    2100062: _Black_
+    2100064: _11
+    2100066: _Beige_1
+    2100068: Color_B08
+    2100070: _9
+    2100072: _8
+    2100074: M_0028_AntiqueWhite
+    2100076: Capture25
+    2100078: M_0051_Cornsilk
+    2100080: Color_M04
+    2100082: Color_C07
+    2100084: Color_M08
+    2100086: Color_M03
+    2100088: Color_C06
+    2100090: _4
+    2100092: pool_top
+    2100094: Color_C01
+    2100096: Color_C02
+    2100098: Color_A07
+    2100100: Color_M09
+    2100102: Color_C08
+    2100104: Steel_Brushed_Stainless
+    2100106: _Translucent_Glass_Tinted_1
+    2100108: M_0044_DarkGoldenrod
+    2100110: Color_D06
+    2100112: M_0136_Charcoal
+    2100114: M_0026_LightSalmon
+    2100116: Color_I08
+    2100118: Terrazzo_Light_Blue
+    2100120: Translucent_Glass_Blue
+    2100122: _Cladding_Stucco_White_1
+    2100124: Cladding_Siding_White
+    2100126: Stone_Flagstone_Ashlar
+    2100128: Formica_Graystone
+    2100130: Formica_Laminate_Dark
+    2100132: Color_M05
+    2100134: M_0093_AliceBlue
+    2100136: M_0010_Snow
+    2100138: M_0014_DarkSalmon
+    2100140: _23
+    2100142: _13
+    2100144: _Charcoal_
+    2100146: Sketchy_Stone
+    2100148: Basic_Tile
+    2100150: Color_D01
+    2100152: Color_E01
+    2300000: 01_WHITE 1
+    2300002: 02_WHITE 2
+    2300004: 03_WHITE 3
+    2300006: 04_WHITE 4
+    2300008: 05_WHITE 5
+    2300010: 06_WHITE 6
+    2300012: 06_WHITE 7
+    2300014: BLACK
+    2300016: BLUE
+    2300018: DARK BLUE 1
+    2300020: DARK BLUE 2
+    2300022: DARK BLUE 3
+    2300024: LIGHT BLUE 1
+    2300026: LIGHT BLUE 2
+    2300028: LIGHT BLUE 3
+    2300030: LIGHT BLUE 4
+    2300032: LIGHT BLUE 5
+    2300034: LIGHT BLUE 6
+    2300036: LIGHT BLUE 7
+    2300038: LIGHT BLUE 8
+    2300040: LIGHT BLUE 9
+    2300042: ORANGE
+    2300044: YELLOW
+    3300000: 01_WHITE 1
+    3300002: 02_WHITE 2
+    3300004: 03_WHITE 3
+    3300006: 04_WHITE 4
+    3300008: 05_WHITE 5
+    3300010: 06_WHITE 6
+    3300012: 06_WHITE 7
+    3300014: BLACK
+    3300016: BLUE
+    3300018: DARK BLUE 1
+    3300020: DARK BLUE 2
+    3300022: DARK BLUE 3
+    3300024: LIGHT BLUE 1
+    3300026: LIGHT BLUE 2
+    3300028: LIGHT BLUE 3
+    3300030: LIGHT BLUE 4
+    3300032: LIGHT BLUE 5
+    3300034: LIGHT BLUE 6
+    3300036: LIGHT BLUE 7
+    3300038: LIGHT BLUE 8
+    3300040: LIGHT BLUE 9
+    3300042: ORANGE
+    3300044: YELLOW
+    4300000: BLUE
+    4300002: LIGHT BLUE 3
+    4300004: BLACK
+    4300006: LIGHT BLUE 2
+    4300008: 02_WHITE 2
+    4300010: DARK BLUE 1
+    4300012: DARK BLUE 2
+    4300014: LIGHT BLUE 1
+    4300016: 06_WHITE 6
+    4300018: LIGHT BLUE 8
+    4300020: LIGHT BLUE 9
+    4300022: YELLOW
+    4300024: LIGHT BLUE 4
+    4300026: LIGHT BLUE 5
+    4300028: 04_WHITE 4
+    4300030: 03_WHITE 3
+    4300032: LIGHT BLUE 6
+    4300034: 05_WHITE 5
+    4300036: ORANGE
+    4300038: DARK BLUE 3
+    4300040: LIGHT BLUE 7
+    4300042: 01_WHITE 1
+    4300044: 06_WHITE 7
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

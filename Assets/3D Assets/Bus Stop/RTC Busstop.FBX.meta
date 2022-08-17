@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 4615a16f18618b34b8c8e01ef4d1b844
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Layer:Bike_Lockers__3D_001
+    100002: Layer:Bus_Shelter002
+    100004: Layer:Bus_Shelter003
+    100006: Layer:Bus_Shelter004
+    100008: Layer:Bus_Shelter005
+    100010: Layer:Bus_Shelter006
+    100012: Layer:Bus_Shelter007
+    100014: Layer:Bus_Shelter008
+    100016: Layer:Bus_Shelter009
+    100018: Layer:Bus_Shelter010
+    100020: Layer:Bus_Shelter011
+    100022: Layer:New_Plaza001
+    100024: Layer:Trash_Cans001
+    100026: //RootNode
+    400000: Layer:Bike_Lockers__3D_001
+    400002: Layer:Bus_Shelter002
+    400004: Layer:Bus_Shelter003
+    400006: Layer:Bus_Shelter004
+    400008: Layer:Bus_Shelter005
+    400010: Layer:Bus_Shelter006
+    400012: Layer:Bus_Shelter007
+    400014: Layer:Bus_Shelter008
+    400016: Layer:Bus_Shelter009
+    400018: Layer:Bus_Shelter010
+    400020: Layer:Bus_Shelter011
+    400022: Layer:New_Plaza001
+    400024: Layer:Trash_Cans001
+    400026: //RootNode
+    2100000: 'Material #182'
+    2100002: 'Material #220'
+    2100004: 'Material #216'
+    2100006: 'Material #229'
+    2100008: 'Material #217'
+    2300000: Layer:Bike_Lockers__3D_001
+    2300002: Layer:Bus_Shelter002
+    2300004: Layer:Bus_Shelter003
+    2300006: Layer:Bus_Shelter004
+    2300008: Layer:Bus_Shelter005
+    2300010: Layer:Bus_Shelter006
+    2300012: Layer:Bus_Shelter007
+    2300014: Layer:Bus_Shelter008
+    2300016: Layer:Bus_Shelter009
+    2300018: Layer:Bus_Shelter010
+    2300020: Layer:New_Plaza001
+    2300022: Layer:Trash_Cans001
+    3300000: Layer:Bike_Lockers__3D_001
+    3300002: Layer:Bus_Shelter002
+    3300004: Layer:Bus_Shelter003
+    3300006: Layer:Bus_Shelter004
+    3300008: Layer:Bus_Shelter005
+    3300010: Layer:Bus_Shelter006
+    3300012: Layer:Bus_Shelter007
+    3300014: Layer:Bus_Shelter008
+    3300016: Layer:Bus_Shelter009
+    3300018: Layer:Bus_Shelter010
+    3300020: Layer:New_Plaza001
+    3300022: Layer:Trash_Cans001
+    4300000: Layer:Bike_Lockers__3D_001
+    4300002: Layer:Bus_Shelter002
+    4300004: Layer:Bus_Shelter003
+    4300006: Layer:Bus_Shelter004
+    4300008: Layer:Bus_Shelter005
+    4300010: Layer:Bus_Shelter006
+    4300012: Layer:Bus_Shelter007
+    4300014: Layer:Bus_Shelter008
+    4300016: Layer:Bus_Shelter009
+    4300018: Layer:Bus_Shelter010
+    4300020: Layer:New_Plaza001
+    4300022: Layer:Trash_Cans001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

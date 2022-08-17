@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 927d794a5102fc241966cd411b9f9f61
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CMan0019-M4-CS_Head
+    100002: CMan0019-M4-CS_HeadNub
+    100004: CMan0019-M4-CS_Hips
+    100006: CMan0019-M4-CS_LeftArm
+    100008: CMan0019-M4-CS_LeftFoot
+    100010: CMan0019-M4-CS_LeftForeArm
+    100012: CMan0019-M4-CS_LeftHand
+    100014: CMan0019-M4-CS_LeftHandIndex1
+    100016: CMan0019-M4-CS_LeftHandIndex2
+    100018: CMan0019-M4-CS_LeftHandIndex3
+    100020: CMan0019-M4-CS_LeftHandIndexNub
+    100022: CMan0019-M4-CS_LeftHandMiddle1
+    100024: CMan0019-M4-CS_LeftHandMiddle2
+    100026: CMan0019-M4-CS_LeftHandMiddle3
+    100028: CMan0019-M4-CS_LeftHandMiddleNub
+    100030: CMan0019-M4-CS_LeftHandPinky1
+    100032: CMan0019-M4-CS_LeftHandPinky2
+    100034: CMan0019-M4-CS_LeftHandPinky3
+    100036: CMan0019-M4-CS_LeftHandPinkyNub
+    100038: CMan0019-M4-CS_LeftHandRing1
+    100040: CMan0019-M4-CS_LeftHandRing2
+    100042: CMan0019-M4-CS_LeftHandRing3
+    100044: CMan0019-M4-CS_LeftHandRingNub
+    100046: CMan0019-M4-CS_LeftHandThumb1
+    100048: CMan0019-M4-CS_LeftHandThumb2
+    100050: CMan0019-M4-CS_LeftHandThumb3
+    100052: CMan0019-M4-CS_LeftHandThumbNub
+    100054: CMan0019-M4-CS_LeftLeg
+    100056: CMan0019-M4-CS_LeftShoulder
+    100058: CMan0019-M4-CS_LeftToeBase
+    100060: CMan0019-M4-CS_LeftToeBaseNub
+    100062: CMan0019-M4-CS_LeftUpLeg
+    100064: CMan0019-M4-CS_Mesh
+    100066: CMan0019-M4-CS_Neck
+    100068: CMan0019-M4-CS_RightArm
+    100070: CMan0019-M4-CS_RightFoot
+    100072: CMan0019-M4-CS_RightForeArm
+    100074: CMan0019-M4-CS_RightHand
+    100076: CMan0019-M4-CS_RightHandIndex1
+    100078: CMan0019-M4-CS_RightHandIndex2
+    100080: CMan0019-M4-CS_RightHandIndex3
+    100082: CMan0019-M4-CS_RightHandIndexNub
+    100084: CMan0019-M4-CS_RightHandMiddle1
+    100086: CMan0019-M4-CS_RightHandMiddle2
+    100088: CMan0019-M4-CS_RightHandMiddle3
+    100090: CMan0019-M4-CS_RightHandMiddleNub
+    100092: CMan0019-M4-CS_RightHandPinky1
+    100094: CMan0019-M4-CS_RightHandPinky2
+    100096: CMan0019-M4-CS_RightHandPinky3
+    100098: CMan0019-M4-CS_RightHandPinkyNub
+    100100: CMan0019-M4-CS_RightHandRing1
+    100102: CMan0019-M4-CS_RightHandRing2
+    100104: CMan0019-M4-CS_RightHandRing3
+    100106: CMan0019-M4-CS_RightHandRingNub
+    100108: CMan0019-M4-CS_RightHandThumb1
+    100110: CMan0019-M4-CS_RightHandThumb2
+    100112: CMan0019-M4-CS_RightHandThumb3
+    100114: CMan0019-M4-CS_RightHandThumbNub
+    100116: CMan0019-M4-CS_RightLeg
+    100118: CMan0019-M4-CS_RightShoulder
+    100120: CMan0019-M4-CS_RightToeBase
+    100122: CMan0019-M4-CS_RightToeBaseNub
+    100124: CMan0019-M4-CS_RightUpLeg
+    100126: CMan0019-M4-CS_Spine
+    100128: CMan0019-M4-CS_Spine1
+    100130: CMan0019-M4-CS_Spine2
+    100132: CMan0019-M4-CS_Spine3
+    100134: CMan0019-M4-CS_Spine4
+    100136: //RootNode
+    100138: helmet
+    100140: LOD_02_Rbike_body
+    100142: LOD_02_Rbike_chain_set
+    100144: LOD_02_Rbike_handlebar
+    100146: LOD_02_Rbike_handlebar_brake_L
+    100148: LOD_02_Rbike_handlebar_brake_R
+    100150: LOD_02_Rbike_pedal_L
+    100152: LOD_02_Rbike_pedal_R
+    100154: LOD_02_Rbike_seat
+    100156: LOD_02_Rbike_wheel_front
+    100158: LOD_02_Rbike_wheel_rear
+    100160: Rbike_handles
+    100162: Rbike_pedal_L
+    100164: Rbike_pedal_R
+    100166: Rbike_pedalroot
+    100168: Rbike_root
+    100170: Rbike_wheelfront
+    100172: Rbike_wheelrear
+    400000: CMan0019-M4-CS_Head
+    400002: CMan0019-M4-CS_HeadNub
+    400004: CMan0019-M4-CS_Hips
+    400006: CMan0019-M4-CS_LeftArm
+    400008: CMan0019-M4-CS_LeftFoot
+    400010: CMan0019-M4-CS_LeftForeArm
+    400012: CMan0019-M4-CS_LeftHand
+    400014: CMan0019-M4-CS_LeftHandIndex1
+    400016: CMan0019-M4-CS_LeftHandIndex2
+    400018: CMan0019-M4-CS_LeftHandIndex3
+    400020: CMan0019-M4-CS_LeftHandIndexNub
+    400022: CMan0019-M4-CS_LeftHandMiddle1
+    400024: CMan0019-M4-CS_LeftHandMiddle2
+    400026: CMan0019-M4-CS_LeftHandMiddle3
+    400028: CMan0019-M4-CS_LeftHandMiddleNub
+    400030: CMan0019-M4-CS_LeftHandPinky1
+    400032: CMan0019-M4-CS_LeftHandPinky2
+    400034: CMan0019-M4-CS_LeftHandPinky3
+    400036: CMan0019-M4-CS_LeftHandPinkyNub
+    400038: CMan0019-M4-CS_LeftHandRing1
+    400040: CMan0019-M4-CS_LeftHandRing2
+    400042: CMan0019-M4-CS_LeftHandRing3
+    400044: CMan0019-M4-CS_LeftHandRingNub
+    400046: CMan0019-M4-CS_LeftHandThumb1
+    400048: CMan0019-M4-CS_LeftHandThumb2
+    400050: CMan0019-M4-CS_LeftHandThumb3
+    400052: CMan0019-M4-CS_LeftHandThumbNub
+    400054: CMan0019-M4-CS_LeftLeg
+    400056: CMan0019-M4-CS_LeftShoulder
+    400058: CMan0019-M4-CS_LeftToeBase
+    400060: CMan0019-M4-CS_LeftToeBaseNub
+    400062: CMan0019-M4-CS_LeftUpLeg
+    400064: CMan0019-M4-CS_Mesh
+    400066: CMan0019-M4-CS_Neck
+    400068: CMan0019-M4-CS_RightArm
+    400070: CMan0019-M4-CS_RightFoot
+    400072: CMan0019-M4-CS_RightForeArm
+    400074: CMan0019-M4-CS_RightHand
+    400076: CMan0019-M4-CS_RightHandIndex1
+    400078: CMan0019-M4-CS_RightHandIndex2
+    400080: CMan0019-M4-CS_RightHandIndex3
+    400082: CMan0019-M4-CS_RightHandIndexNub
+    400084: CMan0019-M4-CS_RightHandMiddle1
+    400086: CMan0019-M4-CS_RightHandMiddle2
+    400088: CMan0019-M4-CS_RightHandMiddle3
+    400090: CMan0019-M4-CS_RightHandMiddleNub
+    400092: CMan0019-M4-CS_RightHandPinky1
+    400094: CMan0019-M4-CS_RightHandPinky2
+    400096: CMan0019-M4-CS_RightHandPinky3
+    400098: CMan0019-M4-CS_RightHandPinkyNub
+    400100: CMan0019-M4-CS_RightHandRing1
+    400102: CMan0019-M4-CS_RightHandRing2
+    400104: CMan0019-M4-CS_RightHandRing3
+    400106: CMan0019-M4-CS_RightHandRingNub
+    400108: CMan0019-M4-CS_RightHandThumb1
+    400110: CMan0019-M4-CS_RightHandThumb2
+    400112: CMan0019-M4-CS_RightHandThumb3
+    400114: CMan0019-M4-CS_RightHandThumbNub
+    400116: CMan0019-M4-CS_RightLeg
+    400118: CMan0019-M4-CS_RightShoulder
+    400120: CMan0019-M4-CS_RightToeBase
+    400122: CMan0019-M4-CS_RightToeBaseNub
+    400124: CMan0019-M4-CS_RightUpLeg
+    400126: CMan0019-M4-CS_Spine
+    400128: CMan0019-M4-CS_Spine1
+    400130: CMan0019-M4-CS_Spine2
+    400132: CMan0019-M4-CS_Spine3
+    400134: CMan0019-M4-CS_Spine4
+    400136: //RootNode
+    400138: helmet
+    400140: LOD_02_Rbike_body
+    400142: LOD_02_Rbike_chain_set
+    400144: LOD_02_Rbike_handlebar
+    400146: LOD_02_Rbike_handlebar_brake_L
+    400148: LOD_02_Rbike_handlebar_brake_R
+    400150: LOD_02_Rbike_pedal_L
+    400152: LOD_02_Rbike_pedal_R
+    400154: LOD_02_Rbike_seat
+    400156: LOD_02_Rbike_wheel_front
+    400158: LOD_02_Rbike_wheel_rear
+    400160: Rbike_handles
+    400162: Rbike_pedal_L
+    400164: Rbike_pedal_R
+    400166: Rbike_pedalroot
+    400168: Rbike_root
+    400170: Rbike_wheelfront
+    400172: Rbike_wheelrear
+    2100000: Rbike_wheel
+    2100002: Rbike_body
+    2100004: Rbike_chain
+    2100006: CMan0019-M4-CS_Cloths&Stuff
+    2100008: 'Material #0'
+    2100010: 'Material #2'
+    2100012: 'Material #1'
+    2100014: CMan0019-M4-CS_Hair
+    2100016: helmet_mat
+    2300000: helmet
+    3300000: helmet
+    4300000: LOD_02_Rbike_seat
+    4300002: LOD_02_Rbike_pedal_R
+    4300004: LOD_02_Rbike_chain_set
+    4300006: LOD_02_Rbike_body
+    4300008: LOD_02_Rbike_pedal_L
+    4300010: LOD_02_Rbike_handlebar
+    4300012: LOD_02_Rbike_handlebar_brake_R
+    4300014: LOD_02_Rbike_handlebar_brake_L
+    4300016: LOD_02_Rbike_wheel_front
+    4300018: LOD_02_Rbike_wheel_rear
+    4300020: CMan0019-M4-CS_Mesh
+    4300022: helmet
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: CMan0019-M4-CS_Mesh
+    13700002: LOD_02_Rbike_body
+    13700004: LOD_02_Rbike_chain_set
+    13700006: LOD_02_Rbike_handlebar
+    13700008: LOD_02_Rbike_handlebar_brake_L
+    13700010: LOD_02_Rbike_handlebar_brake_R
+    13700012: LOD_02_Rbike_pedal_L
+    13700014: LOD_02_Rbike_pedal_R
+    13700016: LOD_02_Rbike_seat
+    13700018: LOD_02_Rbike_wheel_front
+    13700020: LOD_02_Rbike_wheel_rear
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CMan0019-M4-CS_Cloths&Stuff
+    second: {fileID: 2100000, guid: 810dbfb065e1e714a8a850707ea85bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CMan0019-M4-CS_Hair
+    second: {fileID: 2100000, guid: 780231dea36b2ca4698a86d759f8de40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #0'
+    second: {fileID: 2100000, guid: c2143160f5fe87a459db2a93242b49dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1'
+    second: {fileID: 2100000, guid: 13ee51279571cc04dafd928a6350da1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: dd65c247c83fb214593db192c15ae952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbike_body
+    second: {fileID: 2100000, guid: da7d74995dbea2f4191cac52cd97a2bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbike_chain
+    second: {fileID: 2100000, guid: 30e0e8c36ada75249a47b9942c5978b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbike_wheel
+    second: {fileID: 2100000, guid: f59aada7d337dfe4e8e6c9d868d83e4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: helmet_mat
+    second: {fileID: 2100000, guid: 40e1fe44e29bfe649bd5fdf05b093174, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CMan0019-M4-Hair-D
+    second: {fileID: 2800000, guid: 74aa120c1af161f429794c401a6e0ad3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CMan0019-M4-Head-D
+    second: {fileID: 2800000, guid: 1cfdf3b9575d20b48b30b47294d5b369, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rbike_body_diff
+    second: {fileID: 2800000, guid: 9ba1e0a2ae5d8e24198434f4fafe8274, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rbike_chain
+    second: {fileID: 2800000, guid: d7ece8567d4cce645964c2666a041125, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rbike_wheel_diff
+    second: {fileID: 2800000, guid: 62471942b329d044e8603f14a8de343f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cyclist_racing_male_1
+    second: {fileID: 2800000, guid: 5113122fbca73cd4288aa5e854ff490d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cyclist_racing_male_head_1
+    second: {fileID: 2800000, guid: 3af9acd7cf4f90c4689361fccb538411, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: helmet
+    second: {fileID: 2800000, guid: 78321910f73fcc548860c0082b7f6dd2, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

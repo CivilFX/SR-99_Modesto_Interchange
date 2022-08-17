@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: a07890b2f6d0b4340b31435d376979d4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group1
+    100002: group2
+    100004: group2_pCube270
+    100006: group3
+    100008: group4
+    100010: //RootNode
+    100012: imagePlane1
+    100014: pCube115
+    100016: pCube116
+    100018: pCube117
+    100020: pCube130
+    100022: pCube17
+    100024: pCube18
+    100026: pCube19
+    100028: pCube202
+    100030: pCube274
+    100032: pCube275
+    100034: pCube295
+    100036: pCube48
+    100038: pCube48 1
+    100040: pCube48 2
+    100042: pCube52
+    100044: pCube52 1
+    100046: pCube52 2
+    100048: pCube52 3
+    100050: pCube56
+    100052: pCube57
+    100054: pCube58
+    100056: pCube59
+    100058: pCube60
+    100060: pCube62
+    100062: pCube66
+    100064: pCube67
+    100066: pCube68
+    100068: pCube69
+    100070: polySurface64
+    100072: polySurface65
+    100074: polySurface66
+    100076: polySurface67
+    100078: polySurface68
+    100080: polySurface69
+    100082: pPlane11
+    100084: pPlane12
+    100086: pPlane13
+    100088: pPlane14
+    100090: pPlane15
+    100092: pPlane16
+    100094: pPlane17
+    100096: pPlane18
+    100098: pPlane19
+    100100: pPlane20
+    100102: pPlane21
+    100104: pPlane22
+    100106: pPlane23
+    100108: pPlane24
+    100110: pPlane25
+    100112: pPlane26
+    100114: pPlane27
+    100116: pPlane28
+    100118: pPlane29
+    100120: pPlane3
+    100122: pPlane30
+    100124: pPlane31
+    100126: pPlane33
+    100128: pPlane34
+    100130: pPlane35
+    100132: pPlane36
+    100134: pPlane37
+    100136: pPlane38
+    100138: pPlane39
+    100140: pPlane4
+    100142: pPlane40
+    100144: pPlane41
+    100146: pPlane42
+    100148: pPlane43
+    100150: pPlane5
+    100152: pPlane6
+    100154: pPlane7
+    100156: pPlane8
+    100158: transform94
+    100160: transform95
+    400000: group1
+    400002: group2
+    400004: group2_pCube270
+    400006: group3
+    400008: group4
+    400010: //RootNode
+    400012: imagePlane1
+    400014: pCube115
+    400016: pCube116
+    400018: pCube117
+    400020: pCube130
+    400022: pCube17
+    400024: pCube18
+    400026: pCube19
+    400028: pCube202
+    400030: pCube274
+    400032: pCube275
+    400034: pCube295
+    400036: pCube48
+    400038: pCube48 1
+    400040: pCube48 2
+    400042: pCube52
+    400044: pCube52 1
+    400046: pCube52 2
+    400048: pCube52 3
+    400050: pCube56
+    400052: pCube57
+    400054: pCube58
+    400056: pCube59
+    400058: pCube60
+    400060: pCube62
+    400062: pCube66
+    400064: pCube67
+    400066: pCube68
+    400068: pCube69
+    400070: polySurface64
+    400072: polySurface65
+    400074: polySurface66
+    400076: polySurface67
+    400078: polySurface68
+    400080: polySurface69
+    400082: pPlane11
+    400084: pPlane12
+    400086: pPlane13
+    400088: pPlane14
+    400090: pPlane15
+    400092: pPlane16
+    400094: pPlane17
+    400096: pPlane18
+    400098: pPlane19
+    400100: pPlane20
+    400102: pPlane21
+    400104: pPlane22
+    400106: pPlane23
+    400108: pPlane24
+    400110: pPlane25
+    400112: pPlane26
+    400114: pPlane27
+    400116: pPlane28
+    400118: pPlane29
+    400120: pPlane3
+    400122: pPlane30
+    400124: pPlane31
+    400126: pPlane33
+    400128: pPlane34
+    400130: pPlane35
+    400132: pPlane36
+    400134: pPlane37
+    400136: pPlane38
+    400138: pPlane39
+    400140: pPlane4
+    400142: pPlane40
+    400144: pPlane41
+    400146: pPlane42
+    400148: pPlane43
+    400150: pPlane5
+    400152: pPlane6
+    400154: pPlane7
+    400156: pPlane8
+    400158: transform94
+    400160: transform95
+    2100000: 07 - Default
+    2300000: group2_pCube270
+    3300000: group2_pCube270
+    4300000: group2_pCube270
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: f3183418aeb0505429ea65ea9a87209e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HDarea2
+    second: {fileID: 2800000, guid: 417bde0ff142b184e9711c56edbf0fd4, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.30479997
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
