@@ -13,12 +13,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dirt_Fill_1
-    second: {fileID: 2100000, guid: 06d13b9c64d81194f8c7425d43cbed73, type: 2}
+    second: {fileID: 2100000, guid: 563ccdec2485c6c4588f4a217d2eadef, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Temp_Grass
-    second: {fileID: 2100000, guid: 2c531c76ebd218643be46bae55347308, type: 2}
+    second: {fileID: 2100000, guid: 563ccdec2485c6c4588f4a217d2eadef, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
