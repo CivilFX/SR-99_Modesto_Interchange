@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29ce475984d13aa478e1ca5f4a998d8c
+guid: 06209af9fbed0984b93bc26fec473c5e
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -7,8 +7,28 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: No Name
-    second: {fileID: 2100000, guid: dddb79028ff7c92439a46ec66815838d, type: 2}
+      name: Stripes_2ft_L_6ft_Space
+    second: {fileID: 2100000, guid: 898f8fd8323100440bbf5c72765f37a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stripes_2ft_L_6ft_Space_Y
+    second: {fileID: 2100000, guid: f053f46ec6977a24588a62d31e073d0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stripes_Broken_White
+    second: {fileID: 2100000, guid: c1d98c0b2bd13674d895853bedd94f51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stripes_Solid_White
+    second: {fileID: 2100000, guid: d4ee696edf2c9cb46bfd8b5dfa0a01d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stripes_Solid_Yellow
+    second: {fileID: 2100000, guid: 29c84c162dbc0724296acc01fb164162, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
