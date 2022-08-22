@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Collections;
 using UnityEngine;
 
 namespace CivilFX.TrafficV5
@@ -118,6 +119,30 @@ namespace CivilFX.TrafficV5
         public int vehicleDivergePercentage;
         private bool vehicleDivergeAllowed;
 
+        private IEnumerator pedCoroutine;
+
+
+        void Start()
+        {
+            // Coroutine to randomly adjust spawn rate if ped path
+            if (gameObject.tag == "Ped Spawn")
+            {
+                pedCoroutine = SetRandomPedInflow(30f);
+                StartCoroutine(pedCoroutine);
+            }
+        }
+
+
+        private IEnumerator SetRandomPedInflow(float waitTime)
+        {
+            while (true)
+            {
+                inflowCount = Random.Range(0, 200);
+                ResetInflow();
+
+                yield return new WaitForSeconds(waitTime);
+            }
+        }
 
 
         public void Awake()
@@ -125,6 +150,7 @@ namespace CivilFX.TrafficV5
             pathSpline = path.GetSplineBuilder(true);
             pathLength = pathSpline.pathLength;
         }
+
 
         public void Init(GameObject[] _prefabs, int _vehiclesCount, List<VehicleController> waitingVehicles)
         {
