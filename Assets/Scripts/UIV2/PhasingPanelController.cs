@@ -49,7 +49,7 @@ namespace CivilFX.UI2
             });
 
 
-            pedestrianUnderpass.InvokeMainButton();
+            pedestrianOverpass.InvokeMainButton();
         }
 
     }
