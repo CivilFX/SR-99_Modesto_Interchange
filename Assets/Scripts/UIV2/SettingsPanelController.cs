@@ -31,10 +31,7 @@ namespace CivilFX.UI2
         public Toggle wireframeToggle;
 
         private GameObject labels;
-
         GameObject[] compass;
-        private bool compassOff = true;
-
 
 
         void Start()
@@ -131,10 +128,8 @@ namespace CivilFX.UI2
 
         void ToggleCompass()
         {
-            foreach(var compassPart in compass)
-                compassPart.gameObject.GetComponent<Image>().enabled = compassOff;
-
-            compassOff = !compassOff;
+            foreach (var compassPart in compass)
+                compassPart.gameObject.GetComponent<Image>().enabled = compassToggle.isOn;
         }
 
 
