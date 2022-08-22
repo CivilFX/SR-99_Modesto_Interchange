@@ -26,21 +26,17 @@ namespace CivilFX.UI2
 
         [Space()]
         [Header("Others Panel:")]
-        public Toggle treesToggle;
+        public Toggle labelsToggle;
         public Toggle compassToggle;
         public Toggle wireframeToggle;
 
-        private GameObject[] trees;
-        private bool treesOff = false;
-
+        private GameObject labels;
         GameObject[] compass;
-        private bool compassOff = true;
-
 
 
         void Start()
         {
-            trees = GameObject.FindGameObjectsWithTag("Trees");
+            labels = GameObject.FindGameObjectWithTag("Labels");
             compass = GameObject.FindGameObjectsWithTag("Compass");
         }
 
@@ -96,7 +92,7 @@ namespace CivilFX.UI2
              * Others
              */
 
-            treesToggle.onValueChanged.AddListener(delegate {
+            labelsToggle.onValueChanged.AddListener(delegate {
                 ToggleTrees();
             });
 
@@ -125,19 +121,15 @@ namespace CivilFX.UI2
 
         void ToggleTrees()
         {
-            foreach(var tree in trees)
-                tree.SetActive(treesOff);
-
-            treesOff = !treesOff;
+            foreach (Transform label in labels.transform)
+                label.gameObject.SetActive(labelsToggle.isOn);
         }
 
 
         void ToggleCompass()
         {
-            foreach(var compassPart in compass)
-                compassPart.gameObject.GetComponent<Image>().enabled = compassOff;
-
-            compassOff = !compassOff;
+            foreach (var compassPart in compass)
+                compassPart.gameObject.GetComponent<Image>().enabled = compassToggle.isOn;
         }
 
 
