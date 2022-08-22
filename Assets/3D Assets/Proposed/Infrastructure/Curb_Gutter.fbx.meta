@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29ce475984d13aa478e1ca5f4a998d8c
+guid: 58888293c02b9ad40a25355db576a18e
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -7,8 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: No Name
+      name: Asphalt
+    second: {fileID: 2100000, guid: e5fe13b8e25c40c42803ca0c656c030a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete
     second: {fileID: 2100000, guid: dddb79028ff7c92439a46ec66815838d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Concrete #1
+    second: {fileID: 2100000, guid: 1b1b6dcc5f9b93f4eb7fd62bb85c1e37, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
