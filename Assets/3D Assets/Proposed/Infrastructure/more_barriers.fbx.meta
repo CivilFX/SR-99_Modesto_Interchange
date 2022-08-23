@@ -1,39 +1,9 @@
 fileFormatVersion: 2
-guid: 90a387c47ea78ea4c88991ca0b67d03b
+guid: 8486403aa556bae439fd34ade88d9f35
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Asphalt
-    second: {fileID: 2100000, guid: 8a2003025667b0942a0563e6907f5106, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Bridge_Deck
-    second: {fileID: 2100000, guid: dddb79028ff7c92439a46ec66815838d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Chainlink
-    second: {fileID: 2100000, guid: 755d6a8b6cf738645a34c5f65cad7763, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Green
-    second: {fileID: 2100000, guid: 5eaa56f76b157634e92fbc137e9cfac8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Light_Concrete
-    second: {fileID: 2100000, guid: 1b1b6dcc5f9b93f4eb7fd62bb85c1e37, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: RetWall
-    second: {fileID: 2100000, guid: 35e1d2fda44234c4e94d01f8fe6eeac5, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
