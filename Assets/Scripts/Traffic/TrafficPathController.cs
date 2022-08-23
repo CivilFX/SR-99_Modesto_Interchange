@@ -137,7 +137,7 @@ namespace CivilFX.TrafficV5
         {
             while (true)
             {
-                inflowCount = Random.Range(0, 200);
+                inflowCount = Random.Range(0, 100);
                 ResetInflow();
 
                 yield return new WaitForSeconds(waitTime);
