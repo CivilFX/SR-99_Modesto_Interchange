@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 69678f34c9a12294ea024db06a16ca66
+guid: 40a4e7f891227ea4caad63b46dd7814b
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Chevron
-    second: {fileID: 2100000, guid: 491d48e994275e24785b6d57f037f415, type: 2}
+      name: Light_Concrete
+    second: {fileID: 2100000, guid: 1b1b6dcc5f9b93f4eb7fd62bb85c1e37, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

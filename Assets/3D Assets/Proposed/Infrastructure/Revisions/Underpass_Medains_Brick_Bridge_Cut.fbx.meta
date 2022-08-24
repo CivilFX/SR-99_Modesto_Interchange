@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 69678f34c9a12294ea024db06a16ca66
+guid: eb4f080bc6a02c4498ceefeaf04785b0
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Chevron
-    second: {fileID: 2100000, guid: 491d48e994275e24785b6d57f037f415, type: 2}
+      name: Brick
+    second: {fileID: 2100000, guid: 9031649590cf8754d8a4d02131548d16, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
