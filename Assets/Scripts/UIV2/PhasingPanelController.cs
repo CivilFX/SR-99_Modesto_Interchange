@@ -30,6 +30,12 @@ namespace CivilFX.UI2
 
                 trafficPanel.ToggleInflowPoints();
                 trafficPanel.ToggleDivergePoints();
+
+                // Underpass camera 3
+                Vector3 pos = new Vector3(-968.70717f, 3.566599f, -84.8459f);
+                Vector3 rot = new Vector3(14.583f, 333.5f, 0f);
+                float fov = 40;
+                GameManager.Instance.cameraController.HookView(pos, rot, fov);
             });
 
             pedestrianOverpass.RegisterMainButtonCallback(() => {
