@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 69678f34c9a12294ea024db06a16ca66
+guid: a86b288410b16d947ae5e99ceb6eccd4
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Chevron
-    second: {fileID: 2100000, guid: 491d48e994275e24785b6d57f037f415, type: 2}
+      name: Stripes_2ft_L_6ft_Space_Y
+    second: {fileID: 2100000, guid: f053f46ec6977a24588a62d31e073d0f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
